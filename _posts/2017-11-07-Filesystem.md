@@ -1,10 +1,11 @@
 ---
 layout: post
-title: File system status
-date: 2017-11-07 19:51:24
+title: Filesystem status 2017-11-07 20:17:15
+date: 2017-11-07 20:17:15
+excerpt_separator: ""
 categories: file-system
 ---
-
+```
 Filsystem      Storlek Använt Ledigt Anv% Monterat på
 /dev/sdc1          37G   6,6G    29G  19% /
 udev              2,0G   4,0K   2,0G   1% /dev
@@ -19,3 +20,4 @@ none              2,0G    76K   2,0G   1% /run/shm
 /dev/sdf1         2,7T   1,7T   909G  66% /home/public/HDD6
 /dev/sdg1         2,7T   2,1T   470G  83% /home/public/HDD7
 mergerfspool      4,5T   3,9T   360G  92% /mnt/pool
+```

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Filesystem status 2017-11-07 20:17:15
-date: 2017-11-07 20:17:15
+title: Filesystem status 2017-11-07 20:21:46
+date: 2017-11-07 20:21:46
 excerpt_separator: ""
 categories: file-system
 ---
-Filesystem status
-
 ```
 Filsystem      Storlek Använt Ledigt Anv% Monterat på
 /dev/sdc1          37G   6,6G    29G  19% /

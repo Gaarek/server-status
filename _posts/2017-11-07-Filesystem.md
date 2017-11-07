@@ -4,6 +4,8 @@ title: File system status
 date: 2017-11-07 19:51:24
 categories: file-system
 ---
+Filesystem status
+
 ```
 Filsystem      Storlek Använt Ledigt Anv% Monterat på
 /dev/sdc1          37G   6,6G    29G  19% /

@@ -5,6 +5,8 @@ date: 2017-11-07 20:17:15
 excerpt_separator: ""
 categories: file-system
 ---
+Filesystem status
+
 ```
 Filsystem      Storlek Använt Ledigt Anv% Monterat på
 /dev/sdc1          37G   6,6G    29G  19% /

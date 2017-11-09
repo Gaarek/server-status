@@ -1,0 +1,23 @@
+---
+layout: post
+title: Filesystem status 2017-11-09 18:25:28
+date: 2017-11-09 18:25:28
+excerpt_separator: ""
+categories: file-system
+---
+```
+Filsystem      Storlek Använt Ledigt Anv% Monterat på
+/dev/sdc1          37G   6,6G    29G  19% /
+udev              2,0G   4,0K   2,0G   1% /dev
+tmpfs             394M   1,5M   393M   1% /run
+none              5,0M      0   5,0M   0% /run/lock
+none              2,0G    76K   2,0G   1% /run/shm
+/dev/sdc6         873G   804G    25G  98% /home
+/dev/sdb1         1,8T   1,7T    52G  98% /home/public/HDD3
+/dev/sde1         1,8T   1,7T    39G  98% /home/public/HDD1
+/dev/sda1         2,7T   2,3T   307G  89% /home/public/HDD4
+/dev/sdd1         2,7T   1,9T   730G  73% /home/public/HDD5
+/dev/sdf1         2,7T   1,7T   909G  66% /home/public/HDD6
+/dev/sdg1         2,7T   2,1T   470G  83% /home/public/HDD7
+mergerfspool      4,5T   4,0T   358G  92% /mnt/pool
+```

@@ -16,7 +16,7 @@ layout: default
         <h1>Snapraid</h1>
         <div class="posts">
         {% for post in site.posts %}
-            {% if post.categories contains "Snapraid-smart" or post.categories contains "Snapraid-diff" %}
+            {% if post.categories contains "Snapraid" %}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>

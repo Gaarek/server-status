@@ -16,22 +16,13 @@ layout: default
         </div>
     </div>
     <div class="column">
-        <h1>All Posts</h1>
+        <h1>Snapraid</h1>
         <div class="posts">
         {% for post in site.posts %}
-            {% if post.categories contains "Snapraid-" %}
+            {% if post.categories contains "Snapraid-smart" or post.categories contains "Snapraid-diff" %}
                 <article class="post">
-
-                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-                <div class="entry">
-                    {{ post.excerpt }}
-                </div>
-            
-                <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+                    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 </article>
-            {% else %}
-                asdf: {{post.categories}}<br>
             {% endif %}
         {% endfor %}
         </div>

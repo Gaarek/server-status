@@ -4,6 +4,7 @@ layout: default
 
 <h1>Filesystem posts</h1>
 <div class="posts">
+    {{ site.categories["file-system"].first.content }}
   {% for post in site.categories["file-system"] limit:2 %}
     <article class="post">
 

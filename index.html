@@ -9,7 +9,7 @@ layout: default
         <h2><a href="{{ site.baseurl }}{{ first_post.url }}">{{ first_post.title }}</a></h2>
         {{ first_post.content }}
         {% for post in site.categories["file-system"] limit:2 offset: 1 %}
-            <article class="post">       
+            <article class="post">
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>          
             </article>
         {% endfor %}

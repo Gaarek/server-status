@@ -4,7 +4,9 @@ layout: default
 
 <h1>Filesystem posts</h1>
 <div class="posts">
+    {% assign first_post = site.categories["file-system"].first %}
     <h2><a href="{{ site.baseurl }}{{ site.categories["file-system"].first.url }}">{{ site.categories["file-system"].first.title }}</a></h2>
+    {{ first_post.content }}
     {% for post in site.categories["file-system"] limit:2 offset: 1 %}
         <article class="post">       
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>          

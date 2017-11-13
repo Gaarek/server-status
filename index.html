@@ -5,19 +5,12 @@ layout: default
 <h1>Filesystem posts</h1>
 <div class="posts">
     {{ site.categories["file-system"].first.content }}
-  {% for post in site.categories["file-system"] limit:2 %}
-    <article class="post">
+    {% for post in site.categories["file-system"] limit:2 offset: 1 %}
+        <article class="post">
 
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    <!-- 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-	-->
-    </article>
-  {% endfor %}
+            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        </article>
+    {% endfor %}
 </div>
 <h1>All Posts</h1>
 <div class="posts">

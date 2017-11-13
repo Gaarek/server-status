@@ -28,14 +28,10 @@ layout: default
 <div class="row">
     <div class="column">
         <h1>Duplicacy</h1>
-        <div class="posts">
-        {% for post in site.posts %}
-            {% if post.categories contains "Duplicacy" limit:10 %}
-                <article class="post">
-                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                </article>
-            {% endif %}
-        {% endfor %}
+        <div class="posts">            
+            <article class="post">
+                <a href="{{ site.baseurl }}{{ site.categories["Duplicacy-HDD7-mathias_spel"].first.url }}">{{ site.categories["Duplicacy-HDD7-mathias_spel"].first.title }}</a>
+            </article>
         </div>
     </div>
 </div>

@@ -22,7 +22,7 @@ layout: default
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-                %- assign no_posts = no_posts | plus: 1 -%}
+                {%- assign no_posts = no_posts | plus: 1 -%}
                 {{ no_posts }}
                 {%- if no_posts >=1 -%}
                     {%- break -%}

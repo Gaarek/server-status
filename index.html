@@ -26,17 +26,17 @@ layout: default
     </div>
 </div>
 <div class="row">
+    <h1>Duplicacy</h1>
     {% assign storages = "default HDD7" | split: ' ' | sort %}
     {% assign ids = "raspberry_domoticz newserver mathias_spel openelec" | split: ' ' | sort %}
-    {% for storage in storages %}{% for id in ids %}
-    {% assign backup = "Duplicacy" | append: "-" | append: storage | append: "-" | append: id %}
-    <h1>Duplicacy</h1>
     <div class="posts" >  
-    {% for post in site.categories[backup] limit:1 %}
-        <article class="post">
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords: 1, ""}}</a>
-        </article>
-    {% endfor %}
+    {% for storage in storages %}{% for id in ids %}
+        {% assign backup = "Duplicacy" | append: "-" | append: storage | append: "-" | append: id %}
+        {% for post in site.categories[backup] limit:1 %}
+            <article class="post">
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords: 1, ""}}</a>
+            </article>
+        {% endfor %}
+    {% endfor %}{% endfor %}
     </div>
-    {% endfor %}{% endfor %}¨
 </div>

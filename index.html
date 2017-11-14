@@ -16,18 +16,15 @@ layout: default
     <div class="column">
         <h1>Snapraid</h1>
         <div class="posts">
-        {% assign no_posts = 0 %}
         {%- for post in site.posts -%}
             {%- if post.categories contains "Snapraid" -%}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-                {%- capture no_test_str -%}{%- increment no_posts -%}{%- endcapture -%}
-                {{ no_test_str }}
-                {%- if no_test_str == "1" -%}
+                {%- increment no_posts -%}
+                {{ no_posts }}
+                {%- if no_posts >=" -%}
                     {%- break -%}
-                {%- else -%}
-                3qwerty
                 {%- endif -%}
             {%- endif -%}
         {%- endfor -%}

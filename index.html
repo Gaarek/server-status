@@ -5,23 +5,23 @@ layout: default
     <div class="column"t>
       <h1>Filesystem</h1>
         <div class="posts">
-        {% for post in site.categories["file-system"] limit:3 %}
+        {%- for post in site.categories["file-system"] limit:3 -%}
             <article class="post">
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </article>
-        {% endfor %}
+        {%- endfor -%}
         </div>
     </div>
     <div class="column">
         <h1>Snapraid</h1>
         <div class="posts">
-        {% for post in site.posts %}
-            {% if post.categories contains "Snapraid" %}
+        {%- for post in site.posts -%}
+            {%- if post.categories contains "Snapraid" -%}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-            {% endif %}
-        {% endfor %}
+            {%- endif -%}
+        {%- endfor -%}
         </div>
     </div>
 </div>

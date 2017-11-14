@@ -30,7 +30,7 @@ layout: default
     <div class="posts" >      
         {% assign backups = "Duplicacy-default-raspberry_domoticz Duplicacy-HDD7-mathias_spel Duplicacy-HDD7-newserver Duplicacy-HDD7-openelec Duplicacy-HDD7-raspberry_domoticz Duplicacy-default-newserver Duplicacy-default-openelec" | split: ' ' | sort %}
         {% for backup in backups %}
-            {% for post in site.categories[backup].first %}
+            {% for post in site.categories[backup] limit:1 %}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>

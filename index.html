@@ -22,12 +22,14 @@ layout: default
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
+                1qwerty{{ no_posts }}
                 {%- increment no_posts -%}
+                2qwerty{{ no_posts }}
                 {%- if no_posts >= 1 -%}
                     asd
                     {%- break -%}
                 {%- else -%}
-                qwerty{{ no_posts }}
+                3qwerty{{ no_posts }}
                 {%- endif -%}
             {%- endif -%}
         {%- endfor -%}

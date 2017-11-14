@@ -15,13 +15,14 @@ layout: default
     </div>
     <div class="column">
         <h1>Snapraid</h1>
-        <div class="posts">
+        <div class="posts">'
+        {%- assign no_posts = 0-%}
         {%- for post in site.posts -%}
             {%- if post.categories contains "Snapraid" -%}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-                {%- increment no_posts -%}
+                {%- no_posts | plus: 1 -%}
                 {{ no_posts }}
                 {%- if no_posts >=1 -%}
                     {%- break -%}

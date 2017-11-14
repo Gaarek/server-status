@@ -22,8 +22,8 @@ layout: default
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-                {% capture no_test_str %}{%- increment no_posts -%}{% endcapture %}
-
+                {%- capture no_test_str -%}{%- increment no_posts -%}{%- endcapture -%}
+                {{ no_test_str }}
                 {%- if no_test_str == "1" -%}
                     {%- break -%}
                 {%- else -%}

@@ -22,8 +22,8 @@ layout: default
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </article>
-                {% comment %}{%- assign no_posts = no_posts | plus: 1 -%}{% endcomment %}
-                {%- if no_posts | plus: 1 >= 2 -%}
+                {%- assign no_posts = no_posts | plus: 1 -%}
+                {%- if no_posts >= 2 -%}
                     {%- break -%}
                 {%- endif -%}
             {%- endif -%}

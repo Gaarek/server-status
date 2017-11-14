@@ -24,7 +24,7 @@ layout: default
                 </article>
                 {% capture no_test_str %}{%- increment no_posts -%}{% endcapture %}
 
-                {%- if no_test_str >= 1 -%}
+                {%- if no_test_str == "1" -%}
                     {%- break -%}
                 {%- else -%}
                 3qwerty

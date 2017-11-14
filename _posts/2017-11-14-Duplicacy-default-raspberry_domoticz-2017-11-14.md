@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Duplicacy-default-raspberry_domoticz 2017-11-14 01:02:13
-date: 2017-11-14 01:02:13
+title: Duplicacy-default-raspberry_domoticz 2017-11-14 09:32:08
+date: 2017-11-14 09:32:08
 excerpt_separator: ""
 categories: Duplicacy-default-raspberry_domoticz Duplicacy
 ---

@@ -30,8 +30,8 @@ layout: default
     <div class="posts" >      
         <!--{% assign backups = "Duplicacy-default-raspberry_domoticz Duplicacy-HDD7-mathias_spel Duplicacy-HDD7-newserver Duplicacy-HDD7-openelec Duplicacy-HDD7-raspberry_domoticz Duplicacy-default-newserver Duplicacy-default-openelec" | split: ' ' | sort %}
         -->
-        {% assign storages = "default HDD7" | split: ' ' %}
-        {% assign ids = "raspberry_domoticz newserver mathias_spel openelec" | split: ' ' %}
+        {% assign storages = "default HDD7" | split: ' ' % | sort}
+        {% assign ids = "raspberry_domoticz newserver mathias_spel openelec" | split: ' ' % | sort}
         {% for id in ids %}{% for storage in storages %}
             {% assign backup = "Duplicacy" | append: "-" | append: storage | append: "-" | append: id %}
             {% for post in site.categories[backup] limit:1 %}

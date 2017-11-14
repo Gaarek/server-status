@@ -30,7 +30,7 @@ layout: default
 <div class="row">
     <h1>Duplicacy</h1>
     <div class="posts" >  
-    {%- assign storages = "default HDD7" | split: ' ' | sort -%}
+    {%- assign storages = "default HDD7 hubic" | split: ' ' | sort -%}
     {%- assign ids = "raspberry_domoticz newserver mathias_spel openelec" | split: ' ' | sort -%}
     {%- for storage in storages %}{% for id in ids -%}
         {%- assign backup = "Duplicacy" | append: "-" | append: storage | append: "-" | append: id -%}

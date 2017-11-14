@@ -34,6 +34,7 @@ layout: default
         {% assign ids = "raspberry_domoticz newserver mathias_spel openelec" | split: ' ' %}
         {% for id in ids %}{% for storage in storages %}
             {% assign backup = "Duplicacy" | append: "-" | append: storage | append: "-" | append: id %}
+            {{ backup }}
             {% for post in site.categories[backup] limit:1 %}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

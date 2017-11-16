@@ -52,7 +52,7 @@ layout: default
 <div class="row">
     <h1>Duplicacy</h1>
     <div class="posts" >
-        {%- assign sorted_collection = (site.collection_name | sort: 'title') -%}
+        {%- assign sorted_collection = (site.duplicacy | sort: 'title') -%}
         {%- for item in sorted_collection -%}
             <article class="post">
                 <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%Y-%m-%d %H:%M"}} {{ item.title }}</a>

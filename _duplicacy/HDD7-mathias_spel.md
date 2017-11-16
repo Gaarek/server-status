@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duplicacy-HDD7-mathias_spel 2017-11-16 09:33:02
+title: Duplicacy-HDD7-mathias_spel
 date: 2017-11-16 09:33:02
 excerpt_separator: ""
 categories: Duplicacy-HDD7-mathias_spel Duplicacy

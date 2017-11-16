@@ -13,7 +13,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 
 collections:
-- duplicacy
+  duplicacy:
+    output: true
 
 #
 # Flags below are optional

@@ -55,7 +55,6 @@ layout: default
         {%- for item in site.duplicacy -%}
             <article class="post">
                 <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%Y-%m-%d %H:%M"}} {{ item.title }}</a>
-                {{ item.content }}
             </article>
         {%- endfor -%}   
     </div>

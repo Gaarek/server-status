@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Duplicacy-HDD7-mathias_spel
-date: 2017-11-16 09:33:02
+title: HDD7-mathias_spel
+date: 2017-11-16 20:43:24
 excerpt_separator: ""
-categories: Duplicacy-HDD7-mathias_spel Duplicacy
+categories: HDD7-mathias_spel Duplicacy
 ---
 ```
 Revision 5 created at 2017-10-12 21:41

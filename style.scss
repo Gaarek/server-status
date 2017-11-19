@@ -23,10 +23,10 @@ body {
   color: $darkGray;
 }
 
-.tabletest table, td, th {
+.table_alt table, td, th {
 	border-collapse: separate;
-	border-spacing: 30;
-    border: 1px solid black
+    //border: 1px solid black;
+    border-spacing: 15px 0px;  
 }
 
 .container {

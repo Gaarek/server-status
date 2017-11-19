@@ -22,8 +22,7 @@ layout: default
                 <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }} {{item.date | date: "%y-%m-%d %H:%M"}}</a>
             </article>
         {%- endfor -%}   
-    </div>
-        <div class="posts">
+        <h2>Errors</h2>
         {%- assign no_posts = 0 -%}
         {%- for post in site.posts -%}
             {%- if post.categories contains "Snapraid" -%}

@@ -23,7 +23,7 @@ body {
   color: $darkGray;
 }
 
-.tabletest {
+.tabletest table, td, th {
 	border-collapse: separate;
 	border-spacing: 10;
     border: 1px solid black

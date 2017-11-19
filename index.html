@@ -16,26 +16,25 @@ layout: default
     <div class="column">
         <h1>Snapraid</h1>
         <div class="posts" >
-        {%- assign sorted_collection = (site.snapraid | sort: 'title') -%}
-        {%- for item in sorted_collection -%}
-            <article class="post">
-                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }} {{item.date | date: "%y-%m-%d %H:%M"}}</a>
-            </article>
-        {%- endfor -%}   
-        <h2>Errors</h2>
-        {%- assign no_posts = 0 -%}
-        {%- for post in site.posts -%}
-            {%- if post.categories contains "Snapraid" -%}
+            {%- assign sorted_collection = (site.snapraid | sort: 'title') -%}
+            {%- for item in sorted_collection -%}
                 <article class="post">
-                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }} {{item.date | date: "%y-%m-%d %H:%M"}}</a>
                 </article>
-                {%- assign no_posts = no_posts | plus: 1 -%}
-                {%- if no_posts >= 10 -%}
-                    {%- break -%}
+            {%- endfor -%}   
+            <h2>Errors</h2>
+            {%- assign no_posts = 0 -%}
+            {%- for post in site.posts -%}
+                {%- if post.categories contains "Snapraid" -%}
+                    <article class="post">
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </article>
+                    {%- assign no_posts = no_posts | plus: 1 -%}
+                    {%- if no_posts >= 10 -%}
+                        {%- break -%}
+                    {%- endif -%}
                 {%- endif -%}
-            {%- endif -%}
-        {%- endfor -%}
-        
+            {%- endfor -%}        
         </div>
     </div>
 </div>

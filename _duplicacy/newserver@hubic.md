@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@hubic
-date: 2017-11-19 09:37:32
+date: 2017-11-21 09:37:32
 excerpt_separator: ""
 categories: newserver@hubic Duplicacy
 ---
@@ -14,9 +14,9 @@ Revision 54 created at 2017-10-20 13:13
 Revision 59 created at 2017-10-25 13:13
 Revision 64 created at 2017-10-30 13:13
 Revision 68 created at 2017-11-03 13:13
-Revision 71 created at 2017-11-06 13:13
 Revision 73 created at 2017-11-08 13:13
 Revision 75 created at 2017-11-10 13:13
 Revision 80 created at 2017-11-15 13:13
 Revision 82 created at 2017-11-17 13:13
+Revision 85 created at 2017-11-20 13:13
 ```

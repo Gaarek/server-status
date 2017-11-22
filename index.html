@@ -14,15 +14,16 @@ layout: default
         </div>
     </div>
     <div class="column">
-        <h1>Snapraid</h1>
         <div class="posts" >
+            <h1>Snapraid</h1>
             <h2>Status</h2>
             {%- assign sorted_collection = (site.snapraid | sort: 'title') -%}
             {%- for item in sorted_collection -%}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }} {{item.date | date: "%y-%m-%d %H:%M"}}</a>
                 </article>
-            {%- endfor -%}   
+            {%- endfor -%}
+
             <h2>Messages</h2>
             {%- assign no_posts = 0 -%}
             {%- for post in site.posts -%}

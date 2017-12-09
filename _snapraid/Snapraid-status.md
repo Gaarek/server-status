@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2017-12-08 10:33:45
+date: 2017-12-09 10:33:51
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
 ```
 Self test...
 Loading state from /home/public/HDD7/snapraid.content...
-Using 388 MiB of memory for the FileSystem.
+Using 389 MiB of memory for the FileSystem.
 SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
@@ -16,9 +16,9 @@ SnapRAID status report:
     1652       0       0       -     205    1095  15% d1
    22130       1       3       -    1783     155  92% d2
    12706       0       0       -    1825     141  92% d3
-    2824       1       1       -    1840     351  83% d4
+    2827       1       1       -    1843     349  84% d4
  --------------------------------------------------------------------------
-   39312       2       4     0.0    5654    1744  76%
+   39315       2       4     0.0    5657    1741  76%
 
 
  15%|o                                                                     
@@ -27,18 +27,18 @@ SnapRAID status report:
     |o                                                                     
     |o                                                                     
     |o                                                                     
-    |o                                                                 o   
-  7%|o                           *      *     *      *     *      *    o*  
-    |o                     *     *      *     *      *     *      *    o*  
-    |o                     *     *      *     *      *     * o    *    o*  
-    |o                     *     *      *     *      *     * o    *    o*  
-    |o                     *     *      *     *      *     * o    *    o*  
-    |o               *     *     *      *     *      *     * o    *    o*  
-    |o               *     *     *      *     *      *     * o    *    o*  
-  0%|oo_______**___o_*_____*_____*______*_____*______*_____*_oo___*o___o*_o
-    76                    days ago of the last scrub/sync                 0
+    |o                                                                o    
+  7%|o                           *      *     *     *      *     *    o*   
+    |o                     *     *      *     *     *      *     *    o*   
+    |o                     *     *      *     *     *      *o    *    o*   
+    |o                     *     *      *     *     *      *o    *    o*   
+    |o                     *     *      *     *     *      *o    *    o*   
+    |o              *      *     *      *     *     *      *o    *    o*   
+    |o              *      *     *      *     *     *      *o    *    o*   
+  0%|oo_______**___o*______*_____*______*_____*_____*______*oo___*o___o*_oo
+    77                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 76 days ago, the median 31, the newest 0.
+The oldest block was scrubbed 77 days ago, the median 32, the newest 0.
 
 No sync is in progress.
 The 33% of the array is not scrubbed.

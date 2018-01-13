@@ -53,4 +53,16 @@ layout: default
     </div>
 </div>
 
+<div class="row">
+    <h1>Duplicacy</h1>
+    <div class="posts" >
+        {%- assign sorted_collection = (site.duplicacy-check | sort: 'title') -%}
+        {%- for item in sorted_collection -%}
+            <article class="post">
+                <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
+            </article>
+        {%- endfor -%}   
+    </div>
+</div>
+
 Render time: {{ site.time | date: "%Y-%m-%d %H:%M" }}

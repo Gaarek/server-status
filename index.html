@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-    <div class="column"t>
+    <div class="column">
       <h1>Filesystem</h1>
         <div class="posts">
         {%- for post in site.categories["file-system"] limit:3 -%}
@@ -11,6 +11,29 @@ layout: default
             </article>
         {%- endfor -%}
         
+        </div>
+        <div class="row">
+            <h1>Duplicacy</h1>
+            <div class="posts" >
+                {%- assign sorted_collection = (site.duplicacy | sort: 'title') -%}
+                {%- for item in sorted_collection -%}
+                    <article class="post">
+                        <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
+                    </article>
+                {%- endfor -%}   
+            </div>
+        </div>
+
+        <div class="row">
+            <h1>Duplicacy check</h1>
+            <div class="posts" >
+                {%- assign sorted_collection = (site.duplicacy-check | sort: 'title') -%}
+                {%- for item in sorted_collection -%}
+                    <article class="post">
+                        <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
+                    </article>
+                {%- endfor -%}   
+            </div>
         </div>
     </div>
     <div class="column">
@@ -38,30 +61,6 @@ layout: default
                 {%- endif -%}
             {%- endfor -%}        
         </div>
-    </div>
-</div>
-
-<div class="row">
-    <h1>Duplicacy</h1>
-    <div class="posts" >
-        {%- assign sorted_collection = (site.duplicacy | sort: 'title') -%}
-        {%- for item in sorted_collection -%}
-            <article class="post">
-                <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
-            </article>
-        {%- endfor -%}   
-    </div>
-</div>
-
-<div class="row">
-    <h1>Duplicacy check</h1>
-    <div class="posts" >
-        {%- assign sorted_collection = (site.duplicacy-check | sort: 'title') -%}
-        {%- for item in sorted_collection -%}
-            <article class="post">
-                <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
-            </article>
-        {%- endfor -%}   
     </div>
 </div>
 

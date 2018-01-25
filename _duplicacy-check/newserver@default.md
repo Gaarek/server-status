@@ -1,86 +1,86 @@
 ---
 layout: post
 title: newserver@default
-date: 2018-01-22 07:09:05
+date: 2018-01-25 07:09:07
 excerpt_separator: ""
 categories: newserver@default Duplicacy
 ---
 ```
-Running time: 30 minutes 4 seconds
+Running time: 30 minutes 6 seconds
 Number of files tested: 72
 Number of files skipped: 0
 Number of files different or bad: 0
-Files total download size: 2314812
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/5/5a5d9aa4.tbn 
-OK home/mathias/.flexget/crash_report.2016.06.25.072412272345.log 
-OK usr/src/linux-headers-3.13.0-135/scripts/selinux/README 
-OK home/mathias/.flexget/crash_report.2016.06.17.144406565339.log 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/9/931ad1ed.tbn 
-OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/f/f9655360.jpg 
-OK home/public/dokument/openelec/20161112/.kodi/addons/skin.xperience1080/extras/studioflags/Red Wagon Films.png 
-OK usr/src/linux-headers-3.2.0-101/arch/mips/include/asm/mach-loongson/mc146818rtc.h 
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/2/2ebe16fc.tbn 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/b/b50d76d1.jpg 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/d/dc88f52a.jpg 
-OK home/public/dokument/openelec/.xbmc/userdata/Thumbnails/Video/0/0a9d9318.tbn 
-OK home/public/dokument/openelec/20120508/.xbmc/userdata/Thumbnails/Video/3/3d0aa566.tbn 
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/2/2f76aa9e.jpg 
-OK usr/src/linux-headers-3.13.0-135/include/net/llc_c_st.h 
-OK usr/local/lib/python2.7/dist-packages/build/SQLAlchemy/doc/_sources/changelog/index.txt 
-OK home/public/dokument/openelec/20160125/.kodi/addons/skin.aeon.nox/1080i/custom_1132_IconPanelManager.xml 
-OK home/public/dokument/openelec/20160125/.kodi/addons/script.playalbum/default.py 
-OK home/public/dokument/openelec/20160125/.kodi/addons/script.module.youtube.dl/lib/youtube_dl/downloader/rtsp.py 
-OK home/public/dokument/openelec/20160125/.kodi/addons/skin.metropolis/extras/weather_icons/25.png 
-OK usr/share/upstart/sessions/update-notifier-crash.conf 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/1/119cd5d1.jpg 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/b/b22035a9.tbn 
-OK usr/src/linux-headers-3.13.0-135/scripts/checkkconfigsymbols.sh 
-OK usr/share/doc/python-oauth/copyright 
-OK home/mathias/flexget-dev/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.pyc 
-OK home/mathias/.flexget/crash_report.2016.06.24.134410084938.log 
-OK home/public/dokument/openelec/20161112/.kodi/addons/script.module.youtube.dl/lib/youtube_dl/extractor/awaan.py 
-OK home/public/dokument/openelec/20120925/.xbmc/addons/script.xbmc.subtitles/resources/lib/services/AsiaTeam/logo.png 
-OK var/www/bilder/tmp/Kreta 2009 Mathias/images/mvi_0585.jpg 
-OK home/public/dokument/openelec/20160125/.kodi/addons/script.module.mechanize/lib/mechanize/_pullparser.py 
-OK usr/src/linux-headers-3.13.0-135/arch/arm/mach-sa1100/include/mach/collie.h 
-OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/6/6d2d1337.tbn 
-OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/Video/a/acc663fa.tbn 
-OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/9/97c267da.tbn 
-OK usr/share/perl/5.18.2/unicore/lib/Sc/Mong.pl 
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/f/f5cc870d.tbn 
-OK home/public/dokument/openelec/20160125/.kodi/addons/script.module.elementtree/lib/docs/pythondoc-elementtree.SimpleXMLWriter.html 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/Video/3/3455f8ee.tbn 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/8/87d89d8d.jpg 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/Video/a/a97ef93c.tbn 
-OK home/public/dokument/openelec/20130420/.xbmc/userdata/Thumbnails/Video/b/bccff640.tbn 
-OK home/public/dokument/openelec/20160125/.kodi/addons/service.libraryautoupdate/resources/language/Vietnamese (Viet Nam)/strings.xml 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/8/89b468d5.jpg 
-OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/1/1b4c8640.jpg 
-OK home/public/dokument/openelec/20150425/.xbmc/addons/plugin.video.itunes_trailers/resources/language/Serbian (Cyrillic)/strings.po 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/1/1a6824c3.jpg 
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/3/35fc85ba.jpg 
-OK usr/share/hplip/ui4/settingsdialog.py 
-OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/5/50c292e8.tbn 
-OK usr/share/icons/gnome/scalable/devices/audio-input-microphone-symbolic.svg 
-OK usr/share/backgrounds/Precise_Pangolin_by_Vlad_Gerasimov.jpg 
-OK usr/lib/plexmediaserver/Resources/Plug-ins.1/Framework.bundle/Contents/Resources/Platforms/Shared/Libraries/pyamf/sol.py 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/Video/b/b2887036.tbn 
-OK usr/lib/i386-linux-gnu/libgnomevfs-2.so.0.2400.4 
-OK usr/lib/libreoffice/program/wizards/web/CallWizard.py 
-OK usr/lib/python3/dist-packages/orca/scripts/apps/gajim/__init__.py 
-OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/a/a0b11cec.jpg 
-OK usr/lib/python2.7/dist-packages/deluge/core/daemon.py 
-OK usr/share/desktop-directories/Settings-System.directory 
-OK home/public/dokument/openelec/20130420/.xbmc/userdata/Thumbnails/Video/a/a6730de7.tbn 
-OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/9/998fa861.tbn 
-OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/6/6eb7ece7.tbn 
-OK usr/share/icons/HighContrast/24x24/status/network-no-route.png 
-OK home/public/dokument/openelec/20131207/.xbmc/addons/plugin.video.ted.talks/resources/lib/model/util_test.py 
-OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/d/dd68b6c3.jpg 
-OK usr/lib/libreoffice/share/config/soffice.cfg/modules/simpress/toolbar/rectanglesbar.xml 
-OK usr/share/i18n/locales/zh_CN 
-OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/6/6a8fbdda.tbn 
-OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/Video/b/bd4ba73e.tbn 
-OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/0/02de3eab.tbn 
-OK home/mathias/build/flexget/flexget/templates/email/accepted.template 
+Files total download size: 2010241
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/2/23796ec4.tbn 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/Video/c/cfced408.tbn 
+OK var/cache/apt/archives/python-libxml2_2.9.1+dfsg1-3ubuntu4.12_i386.deb 
+OK usr/src/linux-headers-3.13.0-135/include/linux/platform_data/leds-lm355x.h 
+OK var/www/bilder/tmp/Kreta 2009 Mathias/target11.html 
+OK home/public/dokument/openelec/20130420/.xbmc/userdata/Thumbnails/Video/a/ad5fcc4e.tbn 
+OK usr/src/linux-headers-3.2.0-101/scripts/ver_linux 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/b/bb56c689.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/3/33bed524.jpg 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/e/e81906eb.tbn 
+OK usr/share/help-langpack/en_CA/ubuntu-help/net-email-virus.page 
+OK usr/sbin/rpc.idmapd 
+OK home/public/dokument/openelec/20120925/.xbmc/addons/webinterface.XWMM/images/flags/mp2.png 
+OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/3/3fcd5bd0.tbn 
+OK home/public/dokument/openelec/20130420/.xbmc/userdata/Thumbnails/Video/0/002e501a.tbn 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/2/220fd198.jpg 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/f/f85903b6.jpg 
+OK home/public/dokument/openelec/20160125/.kodi/addons/skin.xperience1080/extras/studioflags/Dolores Pictures.png 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/d/d8e35990.jpg 
+OK var/log/samba/log.__ffff_192.168.0.236 
+OK usr/share/icons/Humanity/apps/22/nm-vpn-connecting02.svg 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/5/5ef80294.tbn 
+OK home/public/dokument/openelec/20150425/.xbmc/addons/skin.aeon.nox/1080i/MyPics.xml 
+OK usr/share/unity/themes/glow_texture.png 
+OK home/mathias/server-status/.git/objects/b0/ac885be400dff30aa10994e7d0a8a2a9914f83 
+OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/2/2e5ba725.tbn 
+OK home/public/dokument/openelec/20160125/.kodi/addons/script.tv.show.next.aired/resources/language/Chinese (Simple)/strings.po 
+OK usr/share/man/man3/wcsdup.3.gz 
+OK home/public/dokument/openelec/20161112/.kodi/addons/script.extendedinfo/resources/skins/Default/media/flags/studios/Waterland Films.png 
+OK lib/firmware/keyspan/usa18x.fw 
+OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/d/da0e1e55.tbn 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/4/4920f161.jpg 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/6/6d2e377b.jpg 
+OK usr/share/app-install/icons/ipython3.svg 
+OK home/public/dokument/openelec/20161112/.kodi/addons/script.extendedinfo/resources/skins/Default/media/flags/rating/MPAA_PG_Certificate_US.png 
+OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/3/3893f643.tbn 
+OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/8/8d3f094d.tbn 
+OK usr/share/man/id/man1/lexgrog.1.gz 
+OK usr/src/linux-headers-3.13.0-135/include/linux/sunrpc/addr.h 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/2/29518d28.jpg 
+OK home/public/dokument/openelec/20121207/.xbmc/userdata/Thumbnails/Video/b/bac5cf43.tbn 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/2/2a539bf3.jpg 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/a/a6d98884.tbn 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/Video/d/d07570c8.tbn 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/9/9a58db37.jpg 
+OK home/public/dokument/openelec/20120925/.xbmc/userdata/Thumbnails/Video/6/69cda33f.tbn 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/e/e0dba3b4.jpg 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/b/b2686386.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/e/e34b6bda.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/2/2062683d.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/e/ec026ab6.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/3/300e8039.jpg 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/9/965cde85.jpg 
+OK usr/local/lib/python2.7/dist-packages/build/SQLAlchemy/build/lib.linux-i686-2.7/sqlalchemy/dialects/mysql/gaerdbms.py 
+OK usr/src/linux-headers-3.2.0-101/arch/mips/lantiq/Makefile 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/Video/e/ef489a07.tbn 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/3/auto-3b1f6508.tbn 
+OK home/public/dokument/openelec/20161112/.kodi/addons/script.module.mechanize/addon.xml 
+OK var/lib/dpkg/info/python3-distupgrade.md5sums 
+OK home/public/dokument/openelec/20131207/.xbmc/userdata/Thumbnails/b/b2cba000.jpg 
+OK home/public/dokument/openelec/20150425/.xbmc/addons/service.libraryautoupdate/resources/language/Portuguese (Brazil)/strings.xml 
+OK usr/local/lib/python2.7/dist-packages/build/html5lib/build/lib.linux-i686-2.7/html5lib/treewalkers/_base.py 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/b/b2cba000.jpg 
+OK home/mathias/server-status/.git/objects/b7/53a83b3ab41625a966ed281b0cc9be5d8981af 
+OK usr/lib/python2.7/dist-packages/twisted/protocols/finger.py 
+OK home/mathias/validate-backup/.git/objects/0c/91c511770f33237ee2e918960c0452da4a56ca 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/Video/7/7aeec6e8.tbn 
+OK home/public/dokument/openelec/20150425/.xbmc/userdata/Thumbnails/Video/a/a27369eb.tbn 
+OK home/public/dokument/openelec/20160125/.kodi/userdata/Thumbnails/7/7e401581.jpg 
+OK home/public/dokument/openelec/20161112/.kodi/userdata/Thumbnails/Video/e/ec6e44e3.tbn 
+OK usr/lib/python2.7/dist-packages/twisted/python/modules.pyc 
+OK home/public/dokument/openelec/20160125/.kodi/addons/skin.xperience1080/extras/studioflags/Raw Feed.png 
 ```

@@ -8,7 +8,6 @@ categories: Snapraid-diff Snapraid
 ```
 Loading state from /home/public/HDD7/snapraid.content...
 Comparing...
-move downloads/flytta/KevinTaylor/Kevin\ Taylor/Taylor\ -\ Girl\ -\ The\ De!l/girl_146.jpg -> downloads/flytta/KevinTaylor/Kevin\ Taylor/Taylor\ -\ Girl\ -\ The\ Deal/girl_146.jpg
 
    39355 equal
        3 added

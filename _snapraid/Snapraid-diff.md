@@ -1,20 +1,21 @@
 ---
 layout: post
 title: Snapraid-diff
-date: 2018-02-11 10:33:44
+date: 2018-02-12 10:33:49
 excerpt_separator: ""
 categories: Snapraid-diff Snapraid
 ---
 ```
 Loading state from /home/public/HDD7/snapraid.content...
 Comparing...
+move downloads/flytta/KevinTaylor/Kevin\ Taylor/Taylor\ -\ Girl\ -\ The\ De!l/girl_146.jpg -> downloads/flytta/KevinTaylor/Kevin\ Taylor/Taylor\ -\ Girl\ -\ The\ Deal/girl_146.jpg
 
-   39356 equal
-       0 added
+   39355 equal
+       3 added
        0 removed
        0 updated
-       0 moved
+       1 moved
        0 copied
        0 restored
-No differences
+There are differences!
 ```

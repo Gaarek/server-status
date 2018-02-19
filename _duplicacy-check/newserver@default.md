@@ -1,15 +1,15 @@
 ---
 layout: post
 title: newserver@default
-date: 2018-02-19 07:09:27
+date: 2018-02-19 20:12:13
 excerpt_separator: ""
 categories: newserver@default Duplicacy
 ---
 ```
-Checking rev 170
-Running time: 30 minutes 25 seconds
-Number of files tested: 48
+Checking rev 170 (2018-02-19 04:13)
+Running time: 30 minutes 17 seconds
+Number of files tested: 103
 Number of files skipped: 0
-Number of files different or bad: 47
-Files total download size: 14277279
+Number of files different or bad: 0
+Files total download size: 4279058
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@HDD7
-date: 2018-02-25 13:47:03
+date: 2018-02-26 13:47:03
 excerpt_separator: ""
 categories: newserver@HDD7 Duplicacy
 ---
@@ -24,8 +24,6 @@ Revision 118 created at 2017-12-25 13:13
 Revision 125 created at 2018-01-01 13:13
 Revision 127 created at 2018-01-13 09:49
 Revision 135 created at 2018-01-20 13:13
-Revision 140 created at 2018-01-25 13:13
-Revision 141 created at 2018-01-26 13:13
 Revision 142 created at 2018-01-27 13:13
 Revision 143 created at 2018-01-28 13:13
 Revision 144 created at 2018-01-29 13:13
@@ -67,4 +65,7 @@ Revision 183 created at 2018-02-24 13:13
 Revision 184 created at 2018-02-24 19:13
 Revision 185 created at 2018-02-25 06:13
 Revision 186 created at 2018-02-25 13:13
+Revision 187 created at 2018-02-25 19:13
+Revision 188 created at 2018-02-26 06:13
+Revision 189 created at 2018-02-26 13:13
 ```

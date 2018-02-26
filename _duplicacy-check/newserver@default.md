@@ -1,15 +1,16 @@
 ---
 layout: post
 title: newserver@default
-date: 2018-02-23 07:09:12
+date: 2018-02-26 07:09:03
 excerpt_separator: ""
 categories: newserver@default Duplicacy
 ---
 ```
-Checking rev 174 (2018-02-23 04:13)
-Running time: 30 minutes 10 seconds
-Number of files tested: 136
-Number of files skipped: 0
-Number of files different or bad: 0
-Files total download size: 2304151
+Validating duplicacy backup "default" against "/"
+Rev 176 (2018-02-25 04:13)
+Running time: 30 minutes 2 seconds
+# of files tested: 142
+# of files skipped: 0
+# of files different or bad: 3
+Files total download size: 6039915
 ```

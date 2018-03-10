@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2018-03-09 10:33:50
+date: 2018-03-10 10:33:59
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -13,35 +13,34 @@ SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
             Files  Fragments  GB      GB      GB
-    1652       0       0       -     205    1079  15% d1
+    1652       0       0       -     205    1073  16% d1
    22132       1       3       -    1785     153  92% d2
-   12706       0       0       -    1825     141  92% d3
-    2896       2       2       -    1892     299  86% d4
+   12706       0       0       -    1825     140  92% d3
+    2909       2       2       -    1903     288  86% d4
  --------------------------------------------------------------------------
-   39386       3       5     0.0    5708    1673  77%
+   39399       3       5     0.0    5719    1656  77%
 
 
- 10%|                                         o      *      o      o      o
-    |                                         *      *      *      *      *
-    |             o      o      o      o      *      *      *      *      *
-    |      o      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-  5%|*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-    |*     *      *      *      *      *      *      *      *      *      *
-  0%|*__o__*___oo_*o__o__*oo__o_*o___o_*o___o_*o_o_o_*_o__o_*ooo___*oooo__*
-    73                    days ago of the last scrub/sync                 2
+  9%|                                        o     *      o      o     *   
+    |                                        *     *      *      *     *   
+    |      o      o      o     o      o      *     *      *      *     *   
+    |      *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+  4%|*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+    |*     *      *      *     *      *      *     *      *      *     *   
+  0%|*__o__*__oo_o*__o__o*o__o_*o__o_o*___o_o*_o_o_*_o_o_o*oo___o*ooo__*o_o
+    74                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 73 days ago, the median 31, the newest 2.
+The oldest block was scrubbed 74 days ago, the median 32, the newest 0.
 
-WARNING! The array is NOT fully synced.
-You have a sync in progress at 99%.
+No sync is in progress.
 The 3% of the array is not scrubbed.
 You have 34847 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.

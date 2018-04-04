@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2018-04-03 10:33:48
+date: 2018-04-04 10:33:56
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -16,9 +16,9 @@ SnapRAID status report:
     1652       0       0       -     205    1072  16% d1
    22132       1       3       -    1785     153  92% d2
    12706       0       0       -    1825     141  92% d3
-    2929       2       2       -    1915     260  88% d4
+    2930       2       2       -    1915     260  88% d4
  --------------------------------------------------------------------------
-   39419       3       5     0.0    5731    1627  77%
+   39420       3       5     0.0    5731    1627  77%
 
 
  12%|                                                      *       *      o
@@ -36,11 +36,12 @@ SnapRAID status report:
     |       *       *       *       *      *       *       *       *      *
     |o      *       *       *       *      *       *       *       *      *
   0%|*___o__*o_o_o__*_o__o_o*oo____o*ooo___*o__o__o*oo____o*o______*o_____*
-    63                    days ago of the last scrub/sync                 0
+    64                    days ago of the last scrub/sync                 1
 
-The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
+The oldest block was scrubbed 64 days ago, the median 29, the newest 1.
 
-No sync is in progress.
+WARNING! The array is NOT fully synced.
+You have a sync in progress at 99%.
 The 3% of the array is not scrubbed.
 You have 34838 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.

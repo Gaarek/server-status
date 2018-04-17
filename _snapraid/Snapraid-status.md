@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2018-04-16 10:33:55
+date: 2018-04-17 10:33:48
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -13,32 +13,32 @@ SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
             Files  Fragments  GB      GB      GB
-    1652       0       0       -     205    1072  16% d1
+    1652       0       0       -     205     801  20% d1
    22132       1       3       -    1785     153  92% d2
    12706       0       0       -    1825     141  92% d3
-    2935       2       2       -    1918     257  88% d4
+    2940       2       2       -    1920     255  88% d4
  --------------------------------------------------------------------------
-   39425       3       5     0.0    5734    1625  77%
+   39430       3       5     0.0    5736    1352  80%
 
 
- 12%|                                           *        *       o        o
-    |                                  *        *        *       *        *
-    |        *        o        o       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-  6%|*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-    |*       *        *        *       *        *        *       *        *
-  0%|*o___o_o*ooo____o*_ooo____*___o__o*oo_____o**o______*o______*____o__o*
-    62                    days ago of the last scrub/sync                 5
+ 11%|                                   *       *        *        o        
+    |                          o        *       *        *        *        
+    |o       *        o        *        *       *        *        *       o
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+  5%|*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+    |*       *        *        *        *       *        *        *       *
+  0%|*oo____o*oooo____*___o___o*o______o*o______*_o_____o*____o__o*_______*
+    56                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 62 days ago, the median 34, the newest 5.
+The oldest block was scrubbed 56 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 3% of the array is not scrubbed.

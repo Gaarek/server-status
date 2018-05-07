@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openelec@HDD7
-date: 2018-05-05 09:35:02
+date: 2018-05-07 09:35:02
 excerpt_separator: ""
 categories: openelec@HDD7 Duplicacy
 ---
@@ -32,4 +32,5 @@ Rev 74 created 2018-04-16 21:53
 Rev 75 created 2018-04-19 19:53
 Rev 76 created 2018-04-24 19:53
 Rev 79 created 2018-04-28 19:23
+Rev 82 created 2018-05-05 20:53
 ```

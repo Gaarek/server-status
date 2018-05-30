@@ -1,16 +1,16 @@
 ---
 layout: post
 title: newserver@snapshot-daily
-date: 2018-05-27 08:42:01
+date: 2018-05-30 08:42:01
 excerpt_separator: ""
 categories: newserver@snapshot-daily Duplicacy
 ---
 ```
 Validating snapshot backup "/home/public/HDD7/backup/newserver/daily.1/" against "/"
-Rev 1 (2018-05-27 05:53:49)
+Rev 1 (2018-05-30 05:54:01)
 Elapsed time: 3 minutes 0 seconds
-# of files tested: 185
+# of files tested: 196
 # of files skipped: 0
 # of files different or bad: 0
-Files total download size: 1824398
+Files total download size: 1681624
 ```

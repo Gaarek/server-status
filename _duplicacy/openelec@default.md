@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openelec@default
-date: 2018-05-29 09:31:22
+date: 2018-05-31 09:31:17
 excerpt_separator: ""
 categories: openelec@default Duplicacy
 ---
@@ -22,7 +22,8 @@ Rev 86 created 2018-05-13 09:53
 Rev 88 created 2018-05-15 23:24
 Rev 89 created 2018-05-18 20:53
 Rev 90 created 2018-05-21 22:53
-Rev 91 created 2018-05-22 22:53
 Rev 92 created 2018-05-23 22:53
 Rev 93 created 2018-05-25 20:53
+Rev 94 created 2018-05-29 19:53
+Rev 95 created 2018-05-30 22:23
 ```

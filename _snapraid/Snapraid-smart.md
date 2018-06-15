@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-smart
-date: 2018-06-08 13:33:02
+date: 2018-06-15 13:33:02
 excerpt_separator: ""
 categories: Snapraid-smart Snapraid
 ---
@@ -11,13 +11,13 @@ SnapRAID SMART report:
    Temp  Power   Error   FP Size
       C OnDays   Count        TB  Serial           Device    Disk
  -----------------------------------------------------------------------
-     43    195       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
-     39   2576       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
-     41   2927       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
-     42   1662       0   4%  3.0  WD-WCC1T1092827  /dev/sdb  d4
-     40    308       0   7%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
-     41   1079      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
-     41    274       0   8%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
+     42    202       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
+     38   2583       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
+     41   2934       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
+     41   1669       0   4%  3.0  WD-WCC1T1092827  /dev/sdb  d4
+     40    315       0   7%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
+     41   1086      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
+     41    281       0   9%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
 
 The FP column is the estimated probability (in percentage) that the disk
 is going to fail in the next year.
@@ -29,10 +29,10 @@ combined scrub and repair time:
 
   Parity  1 Week                1 Month             3 Months
  -----------------------------------------------------------------------
-     1    73.46%                 99.66%               100.00%      
-     2    14.32%                 94.15%               100.00%      
-     3     1.34%                 65.44%               100.00%      
-     4     0.079%                23.29%               100.00%      
+     1    73.48%                 99.66%               100.00%      
+     2    14.33%                 94.16%               100.00%      
+     3     1.34%                 65.48%               100.00%      
+     4     0.079%                23.32%               100.00%      
      5     0.0023%                3.26%               99.97%       
      6     0.00000000000000%      0.00000000000000%     0.00000000000000%
 

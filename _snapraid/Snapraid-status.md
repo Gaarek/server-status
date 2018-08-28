@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2018-08-27 10:33:53
+date: 2018-08-28 10:33:51
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -21,8 +21,8 @@ SnapRAID status report:
    39480       8      10     0.0    5724    1359  80%
 
 
- 10%|o      *       *       *       *              *       *              *
-    |*      *       *       *       *      o       *       *       *      *
+ 10%|*      *       *       *              *       *               *      *
+    |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
@@ -34,11 +34,11 @@ SnapRAID status report:
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
-    |*      *       *       *       *      *  o    *       *       *  o   *
-  0%|*______*_o_____*_______*_______*______*__o____*_______*_______*__o___*
-    69                    days ago of the last scrub/sync                 6
+    |*      *       *       *       * o    *       *       *  o    *      *
+  0%|*o_____*_______*_______*______o*_o____*_______*_______*__o____*______*
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 2% of the array is not scrubbed.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry_domoticz@default
-date: 2018-09-25 09:32:12
+date: 2018-09-26 09:32:13
 excerpt_separator: ""
 categories: raspberry_domoticz@default Duplicacy
 ---

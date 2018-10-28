@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mathias-laptop@default
-date: 2018-10-26 09:37:05
+date: 2018-10-28 09:37:05
 excerpt_separator: ""
 categories: mathias-laptop@default Duplicacy
 ---

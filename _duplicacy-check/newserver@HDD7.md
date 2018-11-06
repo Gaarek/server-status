@@ -1,16 +1,16 @@
 ---
 layout: post
 title: newserver@HDD7
-date: 2018-11-03 15:09:10
+date: 2018-11-06 15:09:01
 excerpt_separator: ""
 categories: newserver@HDD7 Duplicacy
 ---
 ```
 Validating duplicacy backup "HDD7" against "/"
-Rev 895 (2018-11-03 13:13)
-Elapsed time: 30 minutes 9 seconds
+Rev 904 (2018-11-06 13:13)
+Elapsed time: 30 minutes 0 seconds
 # of files tested: 183
 # of files skipped: 0
 # of files different or bad: 0
-Files total download size: 4872458
+Files total download size: 7934265
 ```

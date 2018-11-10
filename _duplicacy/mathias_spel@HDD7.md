@@ -1,19 +1,17 @@
 ---
 layout: post
 title: mathias_spel@HDD7
-date: 2018-11-09 09:33:02
+date: 2018-11-10 09:33:02
 excerpt_separator: ""
 categories: mathias_spel@HDD7 Duplicacy
 ---
 ```
 Rev 5 created 2017-10-12 21:41
-Rev 46 created 2017-11-13 20:31
 Rev 81 created 2017-12-13 00:23
 Rev 105 created 2018-01-11 19:50
 Rev 140 created 2018-02-11 23:19
 Rev 182 created 2018-03-19 17:32
 Rev 199 created 2018-04-18 21:48
-Rev 223 created 2018-05-12 09:52
 Rev 228 created 2018-05-19 10:58
 Rev 235 created 2018-05-27 16:23
 Rev 240 created 2018-06-06 17:55
@@ -34,6 +32,5 @@ Rev 299 created 2018-10-12 20:06
 Rev 300 created 2018-10-19 17:01
 Rev 301 created 2018-10-22 20:25
 Rev 302 created 2018-10-31 18:17
-Rev 303 created 2018-11-01 17:07
 Rev 304 created 2018-11-03 13:33
 ```

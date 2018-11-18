@@ -1,11 +1,11 @@
 ---
 layout: post
 title: mathias_spel@HDD7_open
-date: 2018-11-17 10:47:02
+date: 2018-11-18 10:47:01
 excerpt_separator: ""
 categories: mathias_spel@HDD7_open Duplicacy
 ---
 ```
 Rev 305 created 2018-11-13 23:14
-Rev 306 created 2018-11-14 19:59
+Rev 307 created 2018-11-18 09:31
 ```

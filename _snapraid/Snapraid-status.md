@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2018-12-10 10:33:55
+date: 2018-12-11 10:33:54
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -21,29 +21,34 @@ SnapRAID status report:
    39505       8      10     0.0    5727    1357  80%
 
 
- 10%|       *      *       o      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-  5%|*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-    |*      *      *       *      *      *       *      *       *      *   
-  0%|*___o__*___o__*_______*______*__o_oo*_______*_o____*_____o_*_oo___*__o
-    69                    days ago of the last scrub/sync                 2
+ 10%|      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+  5%|      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+    |      *      *      *       *      *      *      *      *      *     *
+  0%|*_____*____o_*______*o______*_o_oo_*______*_o____*____o_*_oo___*__o__*
+    70                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 2.
+The oldest block was scrubbed 70 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.
 You have 34836 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.
 No rehash is in progress or needed.
-No error detected.
+DANGER! In the array there are 1 errors!
+
+They are from block 1137460 to 1137460, specifically at blocks: 1137460
+
+To fix them use the command 'snapraid -e fix'.
+The errors will disappear from the 'status' at the next 'scrub' command.
 ```

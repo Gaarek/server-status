@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-smart
-date: 2018-12-07 13:33:02
+date: 2018-12-14 13:33:02
 excerpt_separator: ""
 categories: Snapraid-smart Snapraid
 ---
@@ -11,13 +11,13 @@ SnapRAID SMART report:
    Temp  Power   Error   FP Size
       C OnDays   Count        TB  Serial           Device    Disk
  -----------------------------------------------------------------------
-     36    377       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
-     33   2758       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
-     35   3105       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
-     36   1844       0   4%  3.0  WD-WCC1T1092827  /dev/sdb  d4
-     33    490       0   9%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
-     34   1261      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
-     34    456       0  12%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
+     36    384       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
+     33   2765       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
+     35   3112       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
+     36   1851       0   4%  3.0  WD-WCC1T1092827  /dev/sdb  d4
+     33    497       0   9%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
+     35   1268      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
+     34    463       0  12%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
 
 The FP column is the estimated probability (in percentage) that the disk
 is going to fail in the next year.

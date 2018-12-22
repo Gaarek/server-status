@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@HDD7
-date: 2018-12-21 13:47:02
+date: 2018-12-22 13:47:02
 excerpt_separator: ""
 categories: newserver@HDD7 Duplicacy
 ---
@@ -35,8 +35,6 @@ Rev 870 created 2018-10-26 06:13
 Rev 891 created 2018-11-02 06:13
 Rev 912 created 2018-11-09 06:13
 Rev 933 created 2018-11-16 06:13
-Rev 945 created 2018-11-20 06:13
-Rev 948 created 2018-11-21 06:13
 Rev 951 created 2018-11-22 06:13
 Rev 954 created 2018-11-23 06:13
 Rev 957 created 2018-11-24 06:13
@@ -58,12 +56,8 @@ Rev 1002 created 2018-12-09 06:13
 Rev 1005 created 2018-12-10 06:13
 Rev 1008 created 2018-12-11 06:13
 Rev 1011 created 2018-12-12 06:13
-Rev 1013 created 2018-12-12 19:13
 Rev 1014 created 2018-12-13 06:13
-Rev 1015 created 2018-12-13 13:13
-Rev 1016 created 2018-12-13 19:13
 Rev 1017 created 2018-12-14 06:13
-Rev 1018 created 2018-12-14 13:13
 Rev 1019 created 2018-12-14 19:13
 Rev 1020 created 2018-12-15 06:13
 Rev 1021 created 2018-12-15 13:13
@@ -85,4 +79,7 @@ Rev 1036 created 2018-12-20 13:13
 Rev 1037 created 2018-12-20 19:13
 Rev 1038 created 2018-12-21 06:13
 Rev 1039 created 2018-12-21 13:13
+Rev 1040 created 2018-12-21 19:13
+Rev 1041 created 2018-12-22 06:13
+Rev 1042 created 2018-12-22 13:13
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@HDD7
-date: 2018-12-30 13:47:02
+date: 2018-12-31 13:47:02
 excerpt_separator: ""
 categories: newserver@HDD7 Duplicacy
 ---
@@ -82,4 +82,7 @@ Rev 1063 created 2018-12-29 13:13
 Rev 1064 created 2018-12-29 19:13
 Rev 1065 created 2018-12-30 06:13
 Rev 1066 created 2018-12-30 13:13
+Rev 1067 created 2018-12-30 19:13
+Rev 1068 created 2018-12-31 06:13
+Rev 1069 created 2018-12-31 13:13
 ```

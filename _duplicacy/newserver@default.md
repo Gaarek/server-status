@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@default
-date: 2019-02-21 07:35:14
+date: 2019-02-22 07:35:15
 excerpt_separator: ""
 categories: newserver@default Duplicacy
 ---
@@ -14,7 +14,6 @@ Rev 225 created 2018-04-23 04:13
 Rev 257 created 2018-05-26 04:13
 Rev 288 created 2018-06-27 04:13
 Rev 318 created 2018-07-31 04:13
-Rev 339 created 2018-08-25 04:13
 Rev 347 created 2018-09-03 04:13
 Rev 355 created 2018-09-12 04:13
 Rev 363 created 2018-09-21 04:13
@@ -41,7 +40,6 @@ Rev 488 created 2019-02-01 04:13
 Rev 490 created 2019-02-03 04:13
 Rev 492 created 2019-02-05 04:13
 Rev 494 created 2019-02-07 04:13
-Rev 495 created 2019-02-08 04:13
 Rev 496 created 2019-02-09 04:13
 Rev 497 created 2019-02-10 04:13
 Rev 498 created 2019-02-11 04:13

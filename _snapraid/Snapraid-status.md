@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2019-02-22 10:33:55
+date: 2019-02-23 10:33:51
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
 ```
 Self test...
 Loading state from /home/public/HDD7/snapraid.content...
-Using 397 MiB of memory for the FileSystem.
+Using 398 MiB of memory for the FileSystem.
 SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
@@ -16,32 +16,32 @@ SnapRAID status report:
     1652       0       0       -     205     781  20% d1
    22130       1       3       -    1770     168  91% d2
    12706       0       0       -    1825     141  92% d3
-    3064      13      19       -    1965     227  89% d4
+    3067      13      19       -    1969     222  89% d4
  --------------------------------------------------------------------------
-   39552      14      22     0.0    5766    1318  81%
+   39555      14      22     0.0    5771    1313  81%
 
 
- 10%|       *       *       *      *       *       o       *      o       o
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-  5%|*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-  0%|*______*_______*_______*__o_o_*______o*_______*___ooo_*___o__*o__oooo*
-    66                    days ago of the last scrub/sync                 2
+ 10%|       *      *       *      *      o       o      *       o      o   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+  5%|*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+    |*      *      *       *      *      *       *      *       *      *   
+  0%|*______*______*_______*__oo__*______*_______*__ooo_*____o_o*__oooo*__o
+    67                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 66 days ago, the median 31, the newest 2.
+The oldest block was scrubbed 67 days ago, the median 32, the newest 0.
 
 No sync is in progress.
-The 2% of the array is not scrubbed.
+The 3% of the array is not scrubbed.
 You have 34836 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.
 No rehash is in progress or needed.

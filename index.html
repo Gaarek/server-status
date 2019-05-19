@@ -68,7 +68,7 @@ Render time: {{ site.time | date: "%Y-%m-%d %H:%M" }}
             {%- assign sorted_collection = (site.temperatur | sort: 'title') -%}
             {%- for item in sorted_collection -%}
                 <article class="post">
-                    <a href="{{ site.baseurl }}{{ item.url }}">{{item.date | date: "%y-%m-%d %H:%M"}} {{ item.title }}</a>
+                    <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
                 </article>
             {%- endfor -%}   
         </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v20
-date: 2019-05-19 12:17:01
+date: 2019-05-19 13:17:02
 excerpt_separator: ""
 categories: Temperatur 2019 v20 Temperatur
 ---
@@ -28,4 +28,5 @@ categories: Temperatur 2019 v20 Temperatur
 2019-05-19 10:10 18.40 deg C
 2019-05-19 11:10 19.0 deg C
 2019-05-19 12:10 19.50 deg C
+2019-05-19 13:10 21.40 deg C
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v23
-date: 2019-06-04 08:17:01
+date: 2019-06-04 09:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v23 Temperatur
 ---
@@ -39,4 +39,5 @@ categories: Temperatur 2019 v23 Temperatur
 2019-06-04 06:10 18.10 deg C
 2019-06-04 07:10 17.90 deg C
 2019-06-04 08:10 18.30 deg C
+2019-06-04 09:10 19.0 deg C
 ```

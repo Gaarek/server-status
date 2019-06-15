@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry_domoticz@HDD7
-date: 2019-06-14 09:36:04
+date: 2019-06-15 09:36:03
 excerpt_separator: ""
 categories: raspberry_domoticz@HDD7 Duplicacy
 ---
@@ -55,4 +55,5 @@ Rev 363 created 2019-06-07 03:09
 Rev 364 created 2019-06-08 03:09
 Rev 366 created 2019-06-10 03:09
 Rev 368 created 2019-06-12 03:09
+Rev 370 created 2019-06-14 03:09
 ```

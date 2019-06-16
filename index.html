@@ -65,7 +65,7 @@ Render time: {{ site.time | date: "%Y-%m-%d %H:%M" }}
         
         <h1>Temperatur</h1>
         <div class="posts" >
-            {%- assign sorted_collection = (site.temperatur | sort: 'title') -%}
+            {%- assign sorted_collection = (site.temperatur | sort: 'title' | reverse) -%}
             {%- for item in sorted_collection -%}
                 <article class="post">
                     <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>

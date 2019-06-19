@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v25
-date: 2019-06-19 23:17:01
+date: 2019-06-20 00:17:02
 excerpt_separator: ""
 categories: Temperatur 2019 v25 Temperatur
 ---
@@ -78,4 +78,5 @@ categories: Temperatur 2019 v25 Temperatur
 2019-06-19 21:15 23.30 deg C
 2019-06-19 22:15 22.70 deg C
 2019-06-19 23:15 22.20 deg C
+2019-06-20 00:15 21.50 deg C
 ```

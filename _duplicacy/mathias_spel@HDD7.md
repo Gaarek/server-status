@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mathias_spel@HDD7
-date: 2019-06-24 09:33:04
+date: 2019-06-25 09:33:07
 excerpt_separator: ""
 categories: mathias_spel@HDD7 Duplicacy
 ---

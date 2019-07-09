@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v28
-date: 2019-07-09 17:17:02
+date: 2019-07-09 18:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v28 Temperatur
 ---
@@ -48,4 +48,5 @@ categories: Temperatur 2019 v28 Temperatur
 2019-07-09 15:15 20.40 deg C
 2019-07-09 16:15 20.30 deg C
 2019-07-09 17:15 20.60 deg C
+2019-07-09 18:15 20.80 deg C
 ```

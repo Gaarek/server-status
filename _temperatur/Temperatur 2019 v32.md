@@ -1,0 +1,10 @@
+---
+layout: post
+title: Temperatur 2019 v32
+date: 2019-08-05 00:17:01
+excerpt_separator: ""
+categories: Temperatur 2019 v32 Temperatur
+---
+```
+2019-08-05 00:10 23.40 deg C
+```

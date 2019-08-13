@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v33
-date: 2019-08-13 08:17:01
+date: 2019-08-13 09:17:02
 excerpt_separator: ""
 categories: Temperatur 2019 v33 Temperatur
 ---
@@ -39,4 +39,5 @@ categories: Temperatur 2019 v33 Temperatur
 2019-08-13 06:10 21.70 deg C
 2019-08-13 07:10 21.60 deg C
 2019-08-13 08:10 21.70 deg C
+2019-08-13 09:10 21.40 deg C
 ```

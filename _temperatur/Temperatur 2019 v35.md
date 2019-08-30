@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v35
-date: 2019-08-30 10:17:01
+date: 2019-08-30 11:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v35 Temperatur
 ---
@@ -113,4 +113,5 @@ categories: Temperatur 2019 v35 Temperatur
 2019-08-30 08:10 20.70 deg C
 2019-08-30 09:10 20.50 deg C
 2019-08-30 10:10 20.50 deg C
+2019-08-30 11:10 21.40 deg C
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v36
-date: 2019-09-06 04:17:02
+date: 2019-09-06 05:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v36 Temperatur
 ---
@@ -107,4 +107,5 @@ categories: Temperatur 2019 v36 Temperatur
 2019-09-06 02:10 19.40 deg C
 2019-09-06 03:10 19.0 deg C
 2019-09-06 04:10 18.90 deg C
+2019-09-06 05:10 18.60 deg C
 ```

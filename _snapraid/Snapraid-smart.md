@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-smart
-date: 2019-09-06 13:33:01
+date: 2019-09-13 13:33:02
 excerpt_separator: ""
 categories: Snapraid-smart Snapraid
 ---
@@ -11,13 +11,13 @@ SnapRAID SMART report:
    Temp  Power   Error   FP Size
       C OnDays   Count        TB  Serial           Device    Disk
  -----------------------------------------------------------------------
-     38    650       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
-     34   3030       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
-     37   3372       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
-     36   2117       0  97%  3.0  WD-WCC1T1092827  /dev/sdb  d4
-     34    762       0  13%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
-     37   1533      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
-     37    728       0  23%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
+     39    657       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
+     35   3037       0  84%  2.0  WD-WCAZA4781250  /dev/sdc  d2
+     42   3379       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
+     37   2124       0  97%  3.0  WD-WCC1T1092827  /dev/sdb  d4
+     35    769       0  14%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
+     37   1540      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
+     38    735       0  24%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
 
 The FP column is the estimated probability (in percentage) that the disk
 is going to fail in the next year.
@@ -29,11 +29,11 @@ combined scrub and repair time:
 
   Parity  1 Week                1 Month             3 Months
  -----------------------------------------------------------------------
-     1    92.59%                 100.00%              100.00%      
-     2    34.60%                 99.96%               100.00%      
-     3     5.06%                 98.33%               100.00%      
-     4     0.42%                 76.08%               100.00%      
-     5     0.017%                22.12%               100.00%      
+     1    92.60%                 100.00%              100.00%      
+     2    34.63%                 99.96%               100.00%      
+     3     5.07%                 98.34%               100.00%      
+     4     0.42%                 76.12%               100.00%      
+     5     0.017%                22.16%               100.00%      
      6     0.00000000000000%      0.00000000000000%     0.00000000000000%
 
 These values are the probabilities that in the next year you'll have a

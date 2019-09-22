@@ -1,0 +1,10 @@
+---
+layout: post
+title: Temperatur 2019 v39
+date: 2019-09-23 00:17:02
+excerpt_separator: ""
+categories: Temperatur 2019 v39 Temperatur
+---
+```
+2019-09-23 00:10 11.90 deg C
+```

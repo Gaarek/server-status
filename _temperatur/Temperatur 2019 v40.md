@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v40
-date: 2019-10-04 08:17:01
+date: 2019-10-04 09:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v40 Temperatur
 ---
@@ -111,4 +111,5 @@ categories: Temperatur 2019 v40 Temperatur
 2019-10-04 06:10 5.90 deg C
 2019-10-04 07:10 5.90 deg C
 2019-10-04 08:10 5.90 deg C
+2019-10-04 09:10 6.40 deg C
 ```

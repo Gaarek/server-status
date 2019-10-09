@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2019-10-08 10:33:47
+date: 2019-10-09 10:33:57
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---

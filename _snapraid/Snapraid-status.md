@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2019-10-20 10:34:06
+date: 2019-10-21 10:33:51
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -13,42 +13,37 @@ SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
             Files  Fragments  GB      GB      GB
-    1652       1       1       -     205     769  21% d1
+    1652       1       1       -     205     757  21% d1
    22136       1       3       -    1776     161  91% d2
-   12706       0       0       -    1825     141  92% d3
-    3097      13      19       -    2010     181  91% d4
+   12717       1       1       -    1825     140  92% d3
+    3097      15      21       -    2010     181  91% d4
  --------------------------------------------------------------------------
-   39591      15      23     0.0    5818    1254  82%
+   39602      18      26     0.0    5818    1242  82%
 
 
-  9%|                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-  4%|                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-    |                                      *  *   *  *   *  *   *  *   *  *
-  0%|*____________*___*______*_________*___*__*___*__*___*__*___*__*___*__*
-   145                    days ago of the last scrub/sync                 5
+ 10%|       *      *      *      *      *      *       *      *      *    o
+    |       *      *      *      *      *      *       *      *      *    o
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+  5%|       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |       *      *      *      *      *      *       *      *      *    *
+    |*      *      *      *      *      *      *       *      *      *    *
+  0%|*______*______*______*______*______*______*_______*______*______*____*
+    69                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 145 days ago, the median 40, the newest 5.
+The oldest block was scrubbed 69 days ago, the median 34, the newest 0.
 
 No sync is in progress.
-The full array was scrubbed at least one time.
-You have 34842 files with zero sub-second timestamp.
+The 2% of the array is not scrubbed.
+You have 34853 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.
 No rehash is in progress or needed.
-DANGER! In the array there are 4 errors!
-
-They are from block 790893 to 7465210, specifically at blocks: 790893 3685872 5650960 7465210
-
-To fix them use the command 'snapraid -e fix'.
-The errors will disappear from the 'status' at the next 'scrub' command.
+No error detected.
 ```

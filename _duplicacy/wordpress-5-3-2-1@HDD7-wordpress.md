@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wordpress-5-3-2-1@HDD7-wordpress
-date: 2019-11-01 03:39:11
+date: 2019-11-02 03:39:08
 excerpt_separator: ""
 categories: wordpress-5-3-2-1@HDD7-wordpress Duplicacy
 ---
@@ -81,4 +81,5 @@ Rev 558 created 2019-10-28 03:35
 Rev 560 created 2019-10-29 03:35
 Rev 562 created 2019-10-30 03:35
 Rev 564 created 2019-10-31 03:35
+Rev 566 created 2019-11-01 03:35
 ```

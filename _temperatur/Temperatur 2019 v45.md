@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v45
-date: 2019-11-05 22:17:01
+date: 2019-11-05 23:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v45 Temperatur
 ---
@@ -53,4 +53,5 @@ categories: Temperatur 2019 v45 Temperatur
 2019-11-05 20:15 2.40 deg C
 2019-11-05 21:15 2.0 deg C
 2019-11-05 22:15 1.70 deg C
+2019-11-05 23:15 1.50 deg C
 ```

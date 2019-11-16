@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mathias_spel@HDD7_open
-date: 2019-11-15 10:47:02
+date: 2019-11-16 10:47:02
 excerpt_separator: ""
 categories: mathias_spel@HDD7_open Duplicacy
 ---
@@ -13,4 +13,5 @@ Rev 94 created 2019-11-11 17:12
 Rev 95 created 2019-11-12 19:07
 Rev 96 created 2019-11-14 07:49
 Rev 97 created 2019-11-14 19:09
+Rev 98 created 2019-11-15 18:01
 ```

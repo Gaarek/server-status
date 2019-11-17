@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@default
-date: 2019-11-16 07:35:19
+date: 2019-11-17 07:35:19
 excerpt_separator: ""
 categories: newserver@default Duplicacy
 ---
@@ -69,4 +69,5 @@ Rev 759 created 2019-11-13 04:13
 Rev 760 created 2019-11-14 04:13
 Rev 761 created 2019-11-15 04:13
 Rev 762 created 2019-11-16 04:13
+Rev 763 created 2019-11-17 04:13
 ```

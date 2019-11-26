@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v48
-date: 2019-11-26 08:17:01
+date: 2019-11-26 09:17:01
 excerpt_separator: ""
 categories: Temperatur 2019 v48 Temperatur
 ---
@@ -39,4 +39,5 @@ categories: Temperatur 2019 v48 Temperatur
 2019-11-26 06:10 16.0 deg C
 2019-11-26 07:10 16.30 deg C
 2019-11-26 08:10 16.60 deg C
+2019-11-26 09:10 16.60 deg C
 ```

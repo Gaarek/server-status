@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wordpress-5-3-2-1@wordpress-b2
-date: 2019-11-27 05:39:23
+date: 2019-11-28 05:39:37
 excerpt_separator: ""
 categories: wordpress-5-3-2-1@wordpress-b2 Duplicacy
 ---
@@ -75,7 +75,6 @@ Rev 584 created 2019-11-10 03:35
 Rev 586 created 2019-11-11 03:35
 Rev 588 created 2019-11-12 03:35
 Rev 590 created 2019-11-13 03:35
-Rev 591 created 2019-11-13 15:35
 Rev 592 created 2019-11-14 03:35
 Rev 593 created 2019-11-14 15:35
 Rev 594 created 2019-11-15 03:35
@@ -103,4 +102,6 @@ Rev 615 created 2019-11-25 15:35
 Rev 616 created 2019-11-26 03:35
 Rev 617 created 2019-11-26 15:35
 Rev 618 created 2019-11-27 03:35
+Rev 619 created 2019-11-27 15:35
+Rev 620 created 2019-11-28 03:35
 ```

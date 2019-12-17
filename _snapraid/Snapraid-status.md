@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2019-12-16 10:33:52
+date: 2019-12-17 10:33:57
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -21,27 +21,27 @@ SnapRAID status report:
    39431       9      14     0.0    5681    1379  80%
 
 
- 11%|                                                             o       *
-    |      o *                          *       *        *        *       *
-    |      o *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-  5%|*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-    |*     * *        *        *        *       *        *        *       *
-  0%|*_____*_*________*________*________*______o*________*________*_______*
-    62                    days ago of the last scrub/sync                 6
+ 11%|                                                    o        *       *
+    | *                         *       *        *       *        *       *
+    | *        *       *        *       *        *       *        *       *
+    | *        *       *        *       *        *       *        *       *
+    |o*        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+  5%|**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+    |**        *       *        *       *        *       *        *       *
+  0%|**________*_______*________*______o*________*_______*________*_______*
+    57                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 62 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 57 days ago, the median 28, the newest 0.
 
 No sync is in progress.
-The 3% of the array is not scrubbed.
+The 2% of the array is not scrubbed.
 You have 34853 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.
 No rehash is in progress or needed.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2019 v52
-date: 2019-12-26 03:17:01
+date: 2019-12-26 04:17:02
 excerpt_separator: ""
 categories: Temperatur 2019 v52 Temperatur
 ---
@@ -82,4 +82,5 @@ categories: Temperatur 2019 v52 Temperatur
 2019-12-26 01:10 5.30 deg C
 2019-12-26 02:10 5.20 deg C
 2019-12-26 03:10 5.10 deg C
+2019-12-26 04:10 4.90 deg C
 ```

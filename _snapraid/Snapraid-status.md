@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-01-25 10:33:40
+date: 2020-01-26 10:33:58
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -36,9 +36,9 @@ SnapRAID status report:
     | *      *       *       *      *       *       *      *       *      *
     | *      *       *       *      *       *       *      *       *      *
   0%|o*______*_______*_______*______*_______*_______*______*_______*____o_*
-    68                    days ago of the last scrub/sync                 4
+    69                    days ago of the last scrub/sync                 5
 
-The oldest block was scrubbed 68 days ago, the median 32, the newest 4.
+The oldest block was scrubbed 69 days ago, the median 33, the newest 5.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.

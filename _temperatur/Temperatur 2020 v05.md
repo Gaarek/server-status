@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v05
-date: 2020-01-30 16:17:01
+date: 2020-01-30 17:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v05 Temperatur
 ---
@@ -95,4 +95,5 @@ categories: Temperatur 2020 v05 Temperatur
 2020-01-30 14:10 14.70 deg C
 2020-01-30 15:10 12.20 deg C
 2020-01-30 16:10 11.40 deg C
+2020-01-30 17:10 13.0 deg C
 ```

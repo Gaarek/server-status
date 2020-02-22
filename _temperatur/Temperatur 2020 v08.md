@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v08
-date: 2020-02-22 02:17:01
+date: 2020-02-22 03:17:03
 excerpt_separator: ""
 categories: Temperatur 2020 v08 Temperatur
 ---
@@ -129,4 +129,5 @@ categories: Temperatur 2020 v08 Temperatur
 2020-02-22 00:10 15.70 deg C
 2020-02-22 01:10 11.60 deg C
 2020-02-22 02:10 10.40 deg C
+2020-02-22 03:10 10.40 deg C
 ```

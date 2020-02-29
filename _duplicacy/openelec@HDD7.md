@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openelec@HDD7
-date: 2020-02-27 09:35:04
+date: 2020-02-29 09:35:05
 excerpt_separator: ""
 categories: openelec@HDD7 Duplicacy
 ---
@@ -25,7 +25,6 @@ Rev 316 created 2019-10-21 21:23
 Rev 325 created 2019-11-02 18:53
 Rev 334 created 2019-11-13 20:53
 Rev 341 created 2019-11-23 20:53
-Rev 346 created 2019-11-29 20:53
 Rev 348 created 2019-12-02 20:23
 Rev 349 created 2019-12-04 21:23
 Rev 350 created 2019-12-06 20:23
@@ -42,7 +41,6 @@ Rev 375 created 2020-01-18 21:23
 Rev 376 created 2020-01-21 09:23
 Rev 379 created 2020-01-25 19:23
 Rev 381 created 2020-01-27 22:53
-Rev 382 created 2020-01-28 21:53
 Rev 384 created 2020-02-01 19:23
 Rev 385 created 2020-02-03 22:53
 Rev 387 created 2020-02-05 23:23
@@ -54,4 +52,5 @@ Rev 397 created 2020-02-18 08:53
 Rev 399 created 2020-02-20 08:53
 Rev 402 created 2020-02-23 09:23
 Rev 404 created 2020-02-25 08:23
+Rev 406 created 2020-02-27 09:23
 ```

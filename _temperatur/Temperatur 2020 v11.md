@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v11
-date: 2020-03-10 15:17:01
+date: 2020-03-10 16:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v11 Temperatur
 ---
@@ -46,4 +46,5 @@ categories: Temperatur 2020 v11 Temperatur
 2020-03-10 13:05 13.10 deg C
 2020-03-10 14:05 12.30 deg C
 2020-03-10 15:05 14.80 deg C
+2020-03-10 16:05 16.60 deg C
 ```

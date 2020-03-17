@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-03-16 10:33:51
+date: 2020-03-17 10:33:40
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -13,15 +13,15 @@ SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
             Files  Fragments  GB      GB      GB
-    1652       1       1       -     205     752  21% d1
+    1652       1       1       -     205     750  21% d1
    22136       1       3       -    1776     162  91% d2
    12717       1       1       -    1825     140  92% d3
-    2928       6       9       -    1873     319  85% d4
+    2930       7      11       -    1874     317  85% d4
  --------------------------------------------------------------------------
-   39433       9      14     0.0    5681    1374  80%
+   39435      10      16     0.0    5682    1370  80%
 
 
- 10%|       *       *       *       *      *       *       *       *      *
+ 10%|       *       *       *       *      *       *       *       *      o
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
@@ -35,10 +35,10 @@ SnapRAID status report:
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
-  0%|*______*____o__*_______*_______*o_____*_______*__o____*_______*______*
-    69                    days ago of the last scrub/sync                 6
+  0%|*___o__*_______*_______*o______*______*__o____*_______*_______*______*
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.

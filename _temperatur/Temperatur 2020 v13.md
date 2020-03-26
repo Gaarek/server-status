@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v13
-date: 2020-03-26 18:17:02
+date: 2020-03-26 19:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v13 Temperatur
 ---
@@ -97,4 +97,5 @@ categories: Temperatur 2020 v13 Temperatur
 2020-03-26 16:05 25.20 deg C
 2020-03-26 17:05 27.80 deg C
 2020-03-26 18:05 26.40 deg C
+2020-03-26 19:05 21.80 deg C
 ```

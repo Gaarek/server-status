@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-diff
-date: 2020-04-24 10:33:42
+date: 2020-04-25 10:33:37
 excerpt_separator: ""
 categories: Snapraid-diff Snapraid
 ---
@@ -9,12 +9,12 @@ categories: Snapraid-diff Snapraid
 Loading state from /home/public/HDD7/snapraid.content...
 Comparing...
 
-   39442 equal
-       4 added
+   39448 equal
+       0 added
        0 removed
-       2 updated
+       0 updated
        0 moved
        0 copied
        0 restored
-There are differences!
+No differences
 ```

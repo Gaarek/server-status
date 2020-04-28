@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry_domoticz@HDD7
-date: 2020-04-27 09:36:05
+date: 2020-04-28 09:36:04
 excerpt_separator: ""
 categories: raspberry_domoticz@HDD7 Duplicacy
 ---
@@ -27,7 +27,6 @@ Rev 561 created 2019-12-23 03:10
 Rev 570 created 2020-01-01 03:10
 Rev 578 created 2020-01-10 03:10
 Rev 588 created 2020-01-20 03:10
-Rev 595 created 2020-01-27 03:10
 Rev 597 created 2020-01-29 03:10
 Rev 599 created 2020-01-31 03:10
 Rev 602 created 2020-02-03 03:10
@@ -54,7 +53,6 @@ Rev 648 created 2020-03-20 03:10
 Rev 651 created 2020-03-23 03:10
 Rev 653 created 2020-03-25 03:10
 Rev 655 created 2020-03-27 03:10
-Rev 656 created 2020-03-28 03:10
 Rev 658 created 2020-03-30 03:10
 Rev 660 created 2020-04-01 03:10
 Rev 662 created 2020-04-03 03:10
@@ -71,4 +69,5 @@ Rev 679 created 2020-04-20 03:10
 Rev 681 created 2020-04-22 03:10
 Rev 683 created 2020-04-24 03:10
 Rev 684 created 2020-04-25 03:10
+Rev 686 created 2020-04-27 03:10
 ```

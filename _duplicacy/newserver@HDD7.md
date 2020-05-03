@@ -1,7 +1,7 @@
 ---
 layout: post
 title: newserver@HDD7
-date: 2020-05-02 13:47:04
+date: 2020-05-03 13:47:03
 excerpt_separator: ""
 categories: newserver@HDD7 Duplicacy
 ---

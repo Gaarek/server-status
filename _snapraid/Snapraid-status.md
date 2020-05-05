@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-05-04 10:33:45
+date: 2020-05-05 10:33:46
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
 ```
 Self test...
 Loading state from /home/public/HDD7/snapraid.content...
-Using 393 MiB of memory for the FileSystem.
+Using 394 MiB of memory for the FileSystem.
 SnapRAID status report:
 
    Files Fragmented Excess  Wasted  Used    Free  Use Name
@@ -16,12 +16,12 @@ SnapRAID status report:
     1652       1       1       -     205     750  21% d1
    22136       1       3       -    1776     162  91% d2
    12717       1       1       -    1825     140  92% d3
-    2942      10      20       -    1884     308  85% d4
+    2943      11      22       -    1887     304  86% d4
  --------------------------------------------------------------------------
-   39447      13      25     0.0    5692    1361  80%
+   39448      14      27     0.0    5695    1358  80%
 
 
- 10%|       *       *       *       o      o       *       *       *      o
+ 10%|       *       *       o       o      *       *       *       *      o
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
@@ -29,16 +29,16 @@ SnapRAID status report:
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
   5%|       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
-    |*      *       *       *       *      *       *       *       *      *
-  0%|*______*_______*______o*______o*______*o______*_______*_______*___o__*
-    69                    days ago of the last scrub/sync                 6
+  0%|*______*______o*______o*______o*______*_______*_______*___o__o*______*
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.

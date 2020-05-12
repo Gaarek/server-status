@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-05-11 10:33:56
+date: 2020-05-12 10:33:46
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -21,24 +21,24 @@ SnapRAID status report:
    39449      14      27     0.0    5695    1358  80%
 
 
- 10%|       *       *       o      o       *       *       *      o       o
-    |       *       *       *      *       *       *       *      *       *
-    |       *       *       *      *       *       *       *      *       *
-    |       *       *       *      *       *       *       *      *       *
-    |       *       *       *      *       *       *       *      *       *
-    |       *       *       *      *       *       *       *      *       *
-    |       *       *       *      *       *       *       *      *       *
-  5%|       *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-    |*      *       *       *      *       *       *       *      *       *
-  0%|*______*______o*______o*______*o______*_______*_______*___o__*______o*
-    69                    days ago of the last scrub/sync                 5
+ 10%|       o       o       o       *      *       *       *       o      *
+    |       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+  5%|       *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
+  0%|*______*______o*______o*_______*______*_______*___o__o*______o*______*
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 5.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.

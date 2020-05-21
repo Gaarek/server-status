@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v21
-date: 2020-05-21 18:17:01
+date: 2020-05-21 19:17:03
 excerpt_separator: ""
 categories: Temperatur 2020 v21 Temperatur
 ---
@@ -97,4 +97,5 @@ categories: Temperatur 2020 v21 Temperatur
 2020-05-21 16:05 26.10 deg C
 2020-05-21 17:05 28.20 deg C
 2020-05-21 18:05 28.10 deg C
+2020-05-21 19:05 29.50 deg C
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v22
-date: 2020-05-25 10:17:01
+date: 2020-05-25 11:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v22 Temperatur
 ---
@@ -17,4 +17,5 @@ categories: Temperatur 2020 v22 Temperatur
 2020-05-25 08:05 15.20 deg C
 2020-05-25 09:05 16.20 deg C
 2020-05-25 10:05 17.30 deg C
+2020-05-25 11:05 18.70 deg C
 ```

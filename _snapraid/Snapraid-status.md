@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-05-25 10:33:43
+date: 2020-05-26 10:33:56
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -21,7 +21,7 @@ SnapRAID status report:
    39449      14      27     0.0    5695    1358  80%
 
 
- 10%|       o       o       *       *      *       *       o       *      *
+ 10%|       *       *       *       *      o       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
@@ -29,16 +29,16 @@ SnapRAID status report:
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
   5%|       *       *       *       *      *       *       *       *      *
+    |       *       *       *       *      *       *       *       *      *
+    |o      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
-    |*      *       *       *       *      *       *       *       *      *
-    |*      *       *       *       *      *       *       *       *      *
-  0%|*______*o_____o*_______*_______*______*___o__o*______o*_______*______*
-    69                    days ago of the last scrub/sync                 6
+  0%|*_____o*o______*_______*_______*___o__*______o*o______*_______*______*
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
 The 1% of the array is not scrubbed.

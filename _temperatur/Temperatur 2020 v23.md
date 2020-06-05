@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v23
-date: 2020-06-05 13:17:02
+date: 2020-06-05 14:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v23 Temperatur
 ---
@@ -116,4 +116,5 @@ categories: Temperatur 2020 v23 Temperatur
 2020-06-05 11:05 21.0 deg C
 2020-06-05 12:05 21.90 deg C
 2020-06-05 13:05 22.40 deg C
+2020-06-05 14:05 22.30 deg C
 ```

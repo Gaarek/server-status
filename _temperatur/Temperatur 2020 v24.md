@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v24
-date: 2020-06-08 07:17:02
+date: 2020-06-08 08:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v24 Temperatur
 ---
@@ -14,4 +14,5 @@ categories: Temperatur 2020 v24 Temperatur
 2020-06-08 05:05 12.0 deg C
 2020-06-08 06:05 12.0 deg C
 2020-06-08 07:05 12.80 deg C
+2020-06-08 08:05 14.0 deg C
 ```

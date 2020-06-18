@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v25
-date: 2020-06-18 20:17:01
+date: 2020-06-18 21:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v25 Temperatur
 ---
@@ -99,4 +99,5 @@ categories: Temperatur 2020 v25 Temperatur
 2020-06-18 18:05 31.80 deg C
 2020-06-18 19:05 33.90 deg C
 2020-06-18 20:05 32.60 deg C
+2020-06-18 21:05 32.10 deg C
 ```

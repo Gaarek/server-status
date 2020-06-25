@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wordpress-iwillcookthisweek@wordpress-b2
-date: 2020-06-24 06:39:23
+date: 2020-06-25 06:39:23
 excerpt_separator: ""
 categories: wordpress-iwillcookthisweek@wordpress-b2 Duplicacy
 ---
@@ -79,7 +79,6 @@ Rev 1002 created 2020-06-07 06:35
 Rev 1004 created 2020-06-08 06:35
 Rev 1006 created 2020-06-09 06:35
 Rev 1008 created 2020-06-10 06:35
-Rev 1009 created 2020-06-10 16:35
 Rev 1010 created 2020-06-11 06:35
 Rev 1011 created 2020-06-11 16:35
 Rev 1012 created 2020-06-12 06:35
@@ -106,4 +105,6 @@ Rev 1032 created 2020-06-22 06:35
 Rev 1033 created 2020-06-22 16:35
 Rev 1034 created 2020-06-23 06:35
 Rev 1035 created 2020-06-23 16:35
+Rev 1036 created 2020-06-24 06:35
+Rev 1037 created 2020-06-24 16:35
 ```

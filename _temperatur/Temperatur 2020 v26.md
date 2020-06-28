@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v26
-date: 2020-06-28 14:17:02
+date: 2020-06-28 15:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v26 Temperatur
 ---
@@ -165,4 +165,5 @@ categories: Temperatur 2020 v26 Temperatur
 2020-06-28 12:00 29.80 deg C
 2020-06-28 13:00 30.60 deg C
 2020-06-28 14:00 31.70 deg C
+2020-06-28 15:00 32.20 deg C
 ```

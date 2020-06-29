@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v27
-date: 2020-06-29 03:17:01
+date: 2020-06-29 04:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v27 Temperatur
 ---
@@ -10,4 +10,5 @@ categories: Temperatur 2020 v27 Temperatur
 2020-06-29 01:00 25.50 deg C
 2020-06-29 02:00 25.70 deg C
 2020-06-29 03:00 25.70 deg C
+2020-06-29 04:00 25.50 deg C
 ```

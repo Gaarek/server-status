@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v27
-date: 2020-07-04 11:17:01
+date: 2020-07-04 12:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v27 Temperatur
 ---
@@ -138,4 +138,5 @@ categories: Temperatur 2020 v27 Temperatur
 2020-07-04 09:00 17.80 deg C
 2020-07-04 10:00 18.80 deg C
 2020-07-04 11:00 19.80 deg C
+2020-07-04 12:00 20.60 deg C
 ```

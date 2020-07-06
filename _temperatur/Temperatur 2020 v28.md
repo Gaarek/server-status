@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v28
-date: 2020-07-06 20:17:02
+date: 2020-07-06 21:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v28 Temperatur
 ---
@@ -27,4 +27,5 @@ categories: Temperatur 2020 v28 Temperatur
 2020-07-06 18:00 24.10 deg C
 2020-07-06 19:00 22.10 deg C
 2020-07-06 20:00 21.30 deg C
+2020-07-06 21:00 20.90 deg C
 ```

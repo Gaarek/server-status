@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v28
-date: 2020-07-10 10:17:02
+date: 2020-07-10 11:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v28 Temperatur
 ---
@@ -113,4 +113,5 @@ categories: Temperatur 2020 v28 Temperatur
 2020-07-10 08:00 20.50 deg C
 2020-07-10 09:00 20.50 deg C
 2020-07-10 10:00 21.10 deg C
+2020-07-10 11:00 20.20 deg C
 ```

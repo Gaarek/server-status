@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v29
-date: 2020-07-13 04:17:02
+date: 2020-07-13 05:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v29 Temperatur
 ---
@@ -11,4 +11,5 @@ categories: Temperatur 2020 v29 Temperatur
 2020-07-13 02:00 18.40 deg C
 2020-07-13 03:00 17.70 deg C
 2020-07-13 04:00 17.0 deg C
+2020-07-13 05:00 16.60 deg C
 ```

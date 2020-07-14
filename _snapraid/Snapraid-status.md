@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-status
-date: 2020-07-13 10:33:55
+date: 2020-07-14 10:34:00
 excerpt_separator: ""
 categories: Snapraid-status Snapraid
 ---
@@ -29,19 +29,19 @@ SnapRAID status report:
     |       *       *       *       *      *       *       *       *      *
     |       *       *       *       *      *       *       *       *      *
   5%|       *       *       *       *      *       *       *       *      *
-    |o      *       *       *       *      *       *       *       *      *
+    |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
     |*      *       *       *       *      *       *       *       *      *
   0%|*______*_______*_______*_______*______*_______*_______*_______*______*
-    69                    days ago of the last scrub/sync                 6
+    63                    days ago of the last scrub/sync                 0
 
-The oldest block was scrubbed 69 days ago, the median 34, the newest 6.
+The oldest block was scrubbed 63 days ago, the median 28, the newest 0.
 
 No sync is in progress.
-The 1% of the array is not scrubbed.
+The full array was scrubbed at least one time.
 You have 34853 files with zero sub-second timestamp.
 Run the 'touch' command to set it to a not zero value.
 No rehash is in progress or needed.

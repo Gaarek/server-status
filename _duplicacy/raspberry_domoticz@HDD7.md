@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry_domoticz@HDD7
-date: 2020-07-23 09:36:06
+date: 2020-07-24 09:36:05
 excerpt_separator: ""
 categories: raspberry_domoticz@HDD7 Duplicacy
 ---
@@ -13,94 +13,47 @@ Rev 160 created 2018-07-23 03:09
 Rev 205 created 2018-10-23 03:10
 Rev 245 created 2019-01-09 03:09
 Rev 291 created 2019-03-27 03:09
-Rev 328 created 2019-05-03 03:09
 Rev 366 created 2019-06-10 03:09
-Rev 402 created 2019-07-17 03:10
 Rev 439 created 2019-08-23 03:10
 Rev 477 created 2019-09-30 03:10
 Rev 514 created 2019-11-06 03:10
-Rev 523 created 2019-11-15 03:10
-Rev 533 created 2019-11-25 03:10
-Rev 542 created 2019-12-04 03:10
 Rev 551 created 2019-12-13 03:10
-Rev 561 created 2019-12-23 03:10
-Rev 570 created 2020-01-01 03:10
-Rev 578 created 2020-01-10 03:10
 Rev 588 created 2020-01-20 03:10
 Rev 597 created 2020-01-29 03:10
-Rev 599 created 2020-01-31 03:10
-Rev 602 created 2020-02-03 03:10
-Rev 604 created 2020-02-05 03:10
 Rev 606 created 2020-02-07 03:10
-Rev 609 created 2020-02-10 03:10
-Rev 611 created 2020-02-12 03:10
-Rev 613 created 2020-02-14 03:10
 Rev 616 created 2020-02-17 03:10
-Rev 618 created 2020-02-19 03:10
-Rev 620 created 2020-02-21 03:10
-Rev 623 created 2020-02-24 03:10
 Rev 625 created 2020-02-26 03:10
-Rev 627 created 2020-02-28 03:10
-Rev 630 created 2020-03-02 03:10
-Rev 632 created 2020-03-04 03:10
 Rev 634 created 2020-03-06 03:10
-Rev 637 created 2020-03-09 03:10
-Rev 639 created 2020-03-11 03:10
-Rev 641 created 2020-03-13 03:10
 Rev 644 created 2020-03-16 03:10
-Rev 646 created 2020-03-18 03:10
-Rev 648 created 2020-03-20 03:10
-Rev 651 created 2020-03-23 03:10
 Rev 653 created 2020-03-25 03:10
-Rev 655 created 2020-03-27 03:10
-Rev 658 created 2020-03-30 03:10
-Rev 660 created 2020-04-01 03:10
 Rev 662 created 2020-04-03 03:10
-Rev 663 created 2020-04-04 03:10
-Rev 665 created 2020-04-06 03:10
-Rev 667 created 2020-04-08 03:10
-Rev 669 created 2020-04-10 03:10
 Rev 670 created 2020-04-11 03:10
-Rev 672 created 2020-04-13 03:10
-Rev 674 created 2020-04-15 03:10
-Rev 676 created 2020-04-17 03:10
-Rev 677 created 2020-04-18 03:10
 Rev 679 created 2020-04-20 03:10
-Rev 681 created 2020-04-22 03:10
-Rev 683 created 2020-04-24 03:10
 Rev 684 created 2020-04-25 03:10
 Rev 686 created 2020-04-27 03:10
 Rev 688 created 2020-04-29 03:10
 Rev 690 created 2020-05-01 03:10
-Rev 691 created 2020-05-02 03:10
 Rev 693 created 2020-05-04 03:10
 Rev 695 created 2020-05-06 03:10
 Rev 697 created 2020-05-08 03:10
-Rev 698 created 2020-05-09 03:10
 Rev 700 created 2020-05-11 03:10
 Rev 702 created 2020-05-13 03:10
 Rev 704 created 2020-05-15 03:10
-Rev 705 created 2020-05-16 03:10
 Rev 707 created 2020-05-18 03:10
 Rev 709 created 2020-05-20 03:10
 Rev 711 created 2020-05-22 03:10
-Rev 712 created 2020-05-23 03:10
 Rev 714 created 2020-05-25 03:10
 Rev 716 created 2020-05-27 03:10
 Rev 718 created 2020-05-29 03:10
-Rev 719 created 2020-05-30 03:10
 Rev 721 created 2020-06-01 03:10
 Rev 723 created 2020-06-03 03:10
 Rev 725 created 2020-06-05 03:10
-Rev 726 created 2020-06-06 03:10
 Rev 728 created 2020-06-08 03:10
 Rev 730 created 2020-06-10 03:10
 Rev 732 created 2020-06-12 03:10
-Rev 733 created 2020-06-13 03:10
 Rev 735 created 2020-06-15 03:10
 Rev 737 created 2020-06-17 03:10
 Rev 739 created 2020-06-19 03:10
-Rev 740 created 2020-06-20 03:10
 Rev 742 created 2020-06-22 03:10
 Rev 744 created 2020-06-24 03:10
 Rev 746 created 2020-06-26 03:10

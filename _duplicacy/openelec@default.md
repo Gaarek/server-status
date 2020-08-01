@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openelec@default
-date: 2020-07-31 09:31:13
+date: 2020-08-01 09:31:13
 excerpt_separator: ""
 categories: openelec@default Duplicacy
 ---

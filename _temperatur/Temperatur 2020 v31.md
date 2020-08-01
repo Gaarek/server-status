@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Temperatur 2020 v31
-date: 2020-08-01 03:17:01
+date: 2020-08-01 04:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v31 Temperatur
 ---
 ```
+  deg C
   deg C
   deg C
   deg C

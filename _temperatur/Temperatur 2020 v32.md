@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v32
-date: 2020-08-04 14:17:02
+date: 2020-08-04 15:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v32 Temperatur
 ---
@@ -44,4 +44,5 @@ categories: Temperatur 2020 v32 Temperatur
 2020-08-04 12:15 23.90 deg C
 2020-08-04 13:15 25.10 deg C
 2020-08-04 14:15 25.80 deg C
+2020-08-04 15:15 26.20 deg C
 ```

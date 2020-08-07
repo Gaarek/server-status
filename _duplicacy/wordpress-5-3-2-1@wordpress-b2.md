@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wordpress-5-3-2-1@wordpress-b2
-date: 2020-08-06 05:39:21
+date: 2020-08-07 05:39:21
 excerpt_separator: ""
 categories: wordpress-5-3-2-1@wordpress-b2 Duplicacy
 ---
@@ -15,7 +15,6 @@ Rev 556 created 2019-10-27 03:35
 Rev 620 created 2019-11-28 03:35
 Rev 684 created 2019-12-30 03:35
 Rev 748 created 2020-01-31 03:35
-Rev 762 created 2020-02-08 03:35
 Rev 778 created 2020-02-16 03:35
 Rev 794 created 2020-02-24 03:35
 Rev 810 created 2020-03-03 03:35
@@ -27,7 +26,6 @@ Rev 864 created 2020-04-12 04:35
 Rev 872 created 2020-04-20 04:35
 Rev 880 created 2020-04-28 04:35
 Rev 888 created 2020-05-06 04:35
-Rev 890 created 2020-05-08 04:35
 Rev 892 created 2020-05-10 04:35
 Rev 894 created 2020-05-12 04:35
 Rev 896 created 2020-05-14 04:35
@@ -50,7 +48,6 @@ Rev 928 created 2020-06-15 04:35
 Rev 930 created 2020-06-17 04:35
 Rev 932 created 2020-06-19 04:35
 Rev 934 created 2020-06-21 04:35
-Rev 935 created 2020-06-22 04:35
 Rev 936 created 2020-06-23 04:35
 Rev 937 created 2020-06-24 04:35
 Rev 938 created 2020-06-25 04:35
@@ -95,4 +92,5 @@ Rev 976 created 2020-08-03 04:35
 Rev 977 created 2020-08-04 04:35
 Rev 978 created 2020-08-05 04:35
 Rev 979 created 2020-08-06 04:35
+Rev 980 created 2020-08-07 04:35
 ```

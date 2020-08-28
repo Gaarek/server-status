@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry_domoticz@default
-date: 2020-08-27 09:32:18
+date: 2020-08-28 09:32:19
 excerpt_separator: ""
 categories: raspberry_domoticz@default Duplicacy
 ---
@@ -37,7 +37,6 @@ Rev 722 created 2020-06-02 03:10
 Rev 730 created 2020-06-10 03:10
 Rev 738 created 2020-06-18 03:10
 Rev 746 created 2020-06-26 03:10
-Rev 748 created 2020-06-28 03:10
 Rev 750 created 2020-06-30 03:10
 Rev 752 created 2020-07-02 03:10
 Rev 754 created 2020-07-04 03:10
@@ -61,7 +60,6 @@ Rev 787 created 2020-08-07 03:10
 Rev 789 created 2020-08-09 03:10
 Rev 791 created 2020-08-11 03:10
 Rev 793 created 2020-08-13 03:10
-Rev 794 created 2020-08-14 03:10
 Rev 795 created 2020-08-15 03:10
 Rev 796 created 2020-08-16 03:10
 Rev 797 created 2020-08-17 03:10
@@ -75,4 +73,5 @@ Rev 804 created 2020-08-24 03:10
 Rev 805 created 2020-08-25 03:10
 Rev 806 created 2020-08-26 03:10
 Rev 807 created 2020-08-27 03:10
+Rev 808 created 2020-08-28 03:10
 ```

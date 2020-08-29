@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v35
-date: 2020-08-29 01:17:01
+date: 2020-08-29 02:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v35 Temperatur
 ---
@@ -128,4 +128,5 @@ categories: Temperatur 2020 v35 Temperatur
 2020-08-28 23:15 21.20 deg C
 2020-08-29 00:15 21.20 deg C
 2020-08-29 01:15 20.20 deg C
+2020-08-29 02:15 19.60 deg C
 ```

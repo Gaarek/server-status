@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v36
-date: 2020-09-04 03:17:03
+date: 2020-09-04 04:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v36 Temperatur
 ---
@@ -106,4 +106,5 @@ categories: Temperatur 2020 v36 Temperatur
 2020-09-04 01:15 20.70 deg C
 2020-09-04 02:15 19.90 deg C
 2020-09-04 03:15 19.10 deg C
+2020-09-04 04:15 18.90 deg C
 ```

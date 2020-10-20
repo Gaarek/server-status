@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v43
-date: 2020-10-20 08:17:01
+date: 2020-10-20 09:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v43 Temperatur
 ---
@@ -39,4 +39,5 @@ categories: Temperatur 2020 v43 Temperatur
 2020-10-20 06:10 4.30 deg C
 2020-10-20 07:10 4.30 deg C
 2020-10-20 08:10 4.50 deg C
+2020-10-20 09:10 4.80 deg C
 ```

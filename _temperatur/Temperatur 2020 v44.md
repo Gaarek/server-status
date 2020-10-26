@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v44
-date: 2020-10-26 21:17:01
+date: 2020-10-26 22:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v44 Temperatur
 ---
@@ -28,4 +28,5 @@ categories: Temperatur 2020 v44 Temperatur
 2020-10-26 19:10 15.30 deg C
 2020-10-26 20:10 15.30 deg C
 2020-10-26 21:10 14.50 deg C
+2020-10-26 22:10 12.90 deg C
 ```

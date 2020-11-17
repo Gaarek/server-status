@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v47
-date: 2020-11-17 12:17:01
+date: 2020-11-17 13:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v47 Temperatur
 ---
@@ -43,4 +43,5 @@ categories: Temperatur 2020 v47 Temperatur
 2020-11-17 10:10 9.60 deg C
 2020-11-17 11:10 9.60 deg C
 2020-11-17 12:10 9.90 deg C
+2020-11-17 13:10 10.20 deg C
 ```

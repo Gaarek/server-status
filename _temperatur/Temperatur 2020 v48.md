@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v48
-date: 2020-11-24 21:17:01
+date: 2020-11-24 22:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v48 Temperatur
 ---
@@ -52,4 +52,5 @@ categories: Temperatur 2020 v48 Temperatur
 2020-11-24 19:10 14.70 deg C
 2020-11-24 20:10 13.60 deg C
 2020-11-24 21:10 13.60 deg C
+2020-11-24 22:10 13.50 deg C
 ```

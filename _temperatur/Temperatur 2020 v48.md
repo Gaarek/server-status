@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v48
-date: 2020-11-28 06:17:01
+date: 2020-11-28 07:17:01
 excerpt_separator: ""
 categories: Temperatur 2020 v48 Temperatur
 ---
@@ -126,6 +126,7 @@ categories: Temperatur 2020 v48 Temperatur
 2020-11-27 21:10 11.30 deg C
 2020-11-27 22:10 11.30 deg C
 2020-11-27 23:10 11.30 deg C
+2020-11-28 00:00 11.30 deg C
 2020-11-28 00:00 11.30 deg C
 2020-11-28 00:00 11.30 deg C
 2020-11-28 00:00 11.30 deg C

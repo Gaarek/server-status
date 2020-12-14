@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperatur 2020 v51
-date: 2020-12-14 03:17:01
+date: 2020-12-14 04:17:02
 excerpt_separator: ""
 categories: Temperatur 2020 v51 Temperatur
 ---
@@ -10,4 +10,5 @@ categories: Temperatur 2020 v51 Temperatur
 2020-12-14 01:10 -17.60 deg C
 2020-12-14 02:10 -17.60 deg C
 2020-12-14 03:10 -17.60 deg C
+2020-12-14 04:10 -17.60 deg C
 ```

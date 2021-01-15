@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openelec@default
-date: 2021-01-13 09:31:14
+date: 2021-01-15 09:31:16
 excerpt_separator: ""
 categories: openelec@default Duplicacy
 ---
@@ -34,7 +34,6 @@ Rev 551 created 2020-10-16 19:53
 Rev 559 created 2020-10-24 19:23
 Rev 567 created 2020-11-02 20:23
 Rev 575 created 2020-11-10 20:53
-Rev 579 created 2020-11-15 10:53
 Rev 581 created 2020-11-19 20:53
 Rev 582 created 2020-11-21 19:53
 Rev 584 created 2020-11-23 21:53
@@ -53,4 +52,6 @@ Rev 605 created 2020-12-18 21:53
 Rev 607 created 2020-12-20 20:53
 Rev 609 created 2021-01-11 21:53
 Rev 610 created 2021-01-12 22:23
+Rev 611 created 2021-01-13 21:23
+Rev 612 created 2021-01-14 20:23
 ```

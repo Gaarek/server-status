@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snapraid-smart
-date: 2021-02-26 13:33:01
+date: 2021-03-05 13:33:02
 excerpt_separator: ""
 categories: Snapraid-smart Snapraid
 ---
@@ -11,13 +11,13 @@ SnapRAID SMART report:
    Temp  Power   Error   FP Size
       C OnDays   Count        TB  Serial           Device    Disk
  -----------------------------------------------------------------------
-     42   1189       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
-     38   3568       0 100%  2.0  WD-WCAZA4781250  /dev/sdc  d2
-     41   3899       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
-     42   2655       0  97%  3.0  WD-WCC1T1092827  /dev/sdb  d4
-     38   1301       0  21%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
-     40   2072      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
-     42   1267       0  54%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
+     42   1196       0   5%  4.0  ZFN0AXAE         /dev/sda  d1
+     37   3575       0 100%  2.0  WD-WCAZA4781250  /dev/sdc  d2
+     40   3906       0  84%  2.0  WD-WCAVY1868172  /dev/sde  d3
+     41   2662       0  97%  3.0  WD-WCC1T1092827  /dev/sdb  d4
+     37   1308       0  21%  3.0  WD-WCC4N2FH6A6Z  /dev/sdf  parity
+     39   2079      17 100%  3.0  WD-WCC4N1KACD4K  /dev/sdd  2-parity
+     41   1274       0  54%  3.0  WD-WCC4N6ZA9X1E  /dev/sdg  -
 
 The FP column is the estimated probability (in percentage) that the disk
 is going to fail in the next year.
@@ -33,7 +33,7 @@ combined scrub and repair time:
      2    100.00%                100.00%              100.00%      
      3    100.00%                100.00%              100.00%      
      4    100.00%                100.00%              100.00%      
-     5    87.46%                 100.00%              100.00%      
+     5    87.48%                 100.00%              100.00%      
      6     0.00000000000000%      0.00000000000000%     0.00000000000000%
 
 These values are the probabilities that in the next year you'll have a
